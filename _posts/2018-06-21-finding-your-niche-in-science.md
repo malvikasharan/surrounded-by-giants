@@ -4,8 +4,6 @@ title:  "Finding your niche in science"
 author: sharan
 categories: [ General, Blogs ]
 image: assets/images/unsplash-ciabattespugnose.jpeg
-featured: true
-hidden: true
 comments: true
 ---
 
