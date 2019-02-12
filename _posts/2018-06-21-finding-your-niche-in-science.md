@@ -2,9 +2,9 @@
 layout: post
 title:  "Finding your niche in science"
 author: sharan
-categories: [ General, Blogs ]
-image: assets/images/unsplash-ciabattespugnose.jpeg
 comments: true
+categories: [ Community, Speakerdeck ]
+image: assets/images/unsplash-ciabattespugnose.jpeg
 ---
 
 ## From developing software to building community in bioinformatics
