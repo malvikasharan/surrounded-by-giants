@@ -10,7 +10,7 @@ comments: true
 
 <p>What is the name? What is the blog? Why? Who?</p>
 
-<p class="mb-5"><img class="shadow-lg" src="https://images.unsplash.com/photo-1476611317561-60117649dd94?ixlib=rb-1.2.1" alt="jekyll template mediumish" /></p>
+<p class="mb-5"><img class="shadow-lg" src="https://images.unsplash.com/photo-1476611317561-60117649dd94?ixlib=rb-1.2.1" alt="Surrounded" /></p>
 <p>Photo by <a href="https://unsplash.com/photos/KFIjzXYg1RM">Jeremy Bishop</a> on<a href="https://unsplash.com/">Unsplash</a></p>
 
 <h4 id="features" class="mt-4">List</h4>
