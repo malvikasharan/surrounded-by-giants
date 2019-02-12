@@ -12,3 +12,5 @@ comments: true
 ## What to expect from *Surrounded by Giants*?
 
 Plans
+
+*Cover photo by [a2foto](https://unsplash.com/photos/63YVMrL2d6g) on [Unsplash](https://unsplash.com/).*
