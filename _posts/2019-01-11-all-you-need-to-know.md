@@ -3,7 +3,7 @@ layout: post
 title:  "What to expect from this site"
 author: sharan
 categories: [ General, Blogs ]
-image: assets/images/unsplash-unsplash-kazuend.jpeg
+image: assets/images/unsplash-kazuend.jpeg
 featured: true
 hidden: true
 comments: true
