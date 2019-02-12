@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About *Surrounded by Giants*
+title: About this blog
 permalink: /about
 comments: true
 ---
