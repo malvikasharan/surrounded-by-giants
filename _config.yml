@@ -1,34 +1,35 @@
 # Site
-name: "Mediumish"
-description: "Jekyll Template for Blogging"
-meta_description: "Jekyll template, Medium styled, free for bloggers."
+name: "Surro"unded by Giants
+description: "Science, Community and Stories"
+meta_description: "Stories, interviews and personal experiences about and from the members of Open Science Community."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /surrounded-by-giants
-google_analytics: '' #'UA-46278016-1'
+google_analytics: 'UA-134359332-1' #'UA-46278016-1'
 disqus: 'surroundedbygiants' #'demowebsite'
-mailchimp-list: '' #'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
+#mailchimp-list: '' #'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
+  sharan:
+    name: Malvika Sharan
+    display_name: MalvikaSharan
+    gravatar: 161196cf47af0d0c5873319fe90a7109
+    email: email.surroundedbygiants@gmail.com
+    web: https://malvikasharan.github.io/surrounded-by-giants
+    twitter: https://twitter.com/MalvikaSharan
+    description: "Author of Surrounded by Giants."
+  davey:
+    name: Norman Davey
+    display_name: NormanDavey
+    gravatar: 161196cf47af0d0c5873319fe90a7109
+    email: email.surroundedbygiants@gmail.com
     web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    twitter: https://twitter.com/DaveyLab
+    description: "contributor of Surrounded by Giants."
 
 # Plugins
 plugins: 
