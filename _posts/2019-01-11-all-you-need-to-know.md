@@ -3,7 +3,7 @@ layout: post
 title:  "What to expect from this site"
 author: sharan
 categories: [ General, Blogs ]
-image: assets/images/unsplash-a2foto.jpeg
+image: assets/images/unsplash-unsplash-kazuend.jpeg
 featured: true
 hidden: true
 comments: true
@@ -13,4 +13,4 @@ comments: true
 
 Plans
 
-*Cover photo by [a2foto](https://unsplash.com/photos/63YVMrL2d6g) on [Unsplash](https://unsplash.com/).*
+*Cover photo by [kazuend](https://unsplash.com/photos/19SC2oaVZW0) on [Unsplash](https://unsplash.com/).*
