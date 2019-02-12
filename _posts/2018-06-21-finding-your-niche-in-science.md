@@ -3,7 +3,7 @@ layout: post
 title:  "Finding your niche in science"
 author: sharan
 categories: [ General, Blogs ]
-image: assets/images/unsplash-a2foto.jpeg
+image: assets/images/unsplash-ciabattespugnose.jpeg
 featured: true
 hidden: true
 comments: true
@@ -17,4 +17,4 @@ Here is my [Speaker Deck](https://speakerdeck.com/malvikasharan/from-developing-
 
 Hopefully I will write it in detail in coming days.
 
-*Cover photo by [a2foto](https://unsplash.com/photos/63YVMrL2d6g) on [Unsplash](https://unsplash.com/).*
+*Cover photo by [ciabattespugnose](https://unsplash.com/photos/IMUwe-p1yqs) on [Unsplash](https://unsplash.com/).*
