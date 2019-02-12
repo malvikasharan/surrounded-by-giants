@@ -34,3 +34,4 @@ comments: true
 Head over to my <a href="https://github.com/malvikasharan/surrounded-by-giants">Github repository</a>!
 
 </div>
+</div>
