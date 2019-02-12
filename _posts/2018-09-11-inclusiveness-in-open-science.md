@@ -5,6 +5,7 @@ author: sharan
 categories: [ OpenStuff, Speakerdeck ]
 image: assets/images/unsplash-birdiesnapdragon.jpeg
 featured: true
+hidden: true
 comments: true
 ---
 
