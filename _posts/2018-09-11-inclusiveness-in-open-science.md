@@ -3,7 +3,7 @@ layout: post
 title:  "Inclusiveness in Open Science"
 author: sharan
 categories: [ OpenStuff, Speakerdeck ]
-image: assets/images/unsplash-birdiesnapdragon.jpeg
+image: assets/images/unsplash-sharonmccutcheon.jpeg
 featured: true
 hidden: true
 comments: true
