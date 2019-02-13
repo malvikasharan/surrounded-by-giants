@@ -79,20 +79,20 @@ ga('send', 'pageview');
                 <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
 		    
+		{% if page.url == "/contact.html" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/contact">Contact</a>
+                </li>
+		    
 		{% if page.url == "/conduct.html" %}
                 <li class="nav-item active">
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/conduct">Code of Conduct</a>
-                </li>
-		    
-		{% if page.url == "/contact.html" %}
-                <li class="nav-item active">
-                {% else %}
-                <li class="nav-item">
-                {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/contact">Bio/Contact</a>
                 </li>
 		    
 		{% if page.url == "/resources.html" %}
