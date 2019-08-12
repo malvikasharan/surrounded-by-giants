@@ -5,6 +5,9 @@ permalink: /participate
 comments: true
 ---
 
+<div class="row justify-content-between">
+<div class="col-md-8 pr-5">
+
 #### Posting on this platform
 
 You are very welcome to share your posts on this platform using the basic template below:

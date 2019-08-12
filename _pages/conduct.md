@@ -5,6 +5,9 @@ permalink: /conduct
 comments: true
 ---
 
+<div class="row justify-content-between">
+<div class="col-md-8 pr-5">
+
 This code of conduct outlines our expectations for participants within this group as a community of readers, authors, developers, contributors, etc. (see different ways to [participate](./../participate)). It also lists the ways to report unacceptable behavior.
 
 We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants accept to abide by the Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form or behaviour to exclude, intimidate or cause discomfort is a violation of the Code of Conduct. To foster a positive and professional learning environment we encourage the following kinds of behaviours in all platforms and events:
@@ -36,7 +39,7 @@ Our open source community strives to:
   * Unwelcome sexual attention.
   * Advocating for, or encouraging, any of the above behavior.
   * Repeated harassment of others. In general, if someone asks you to stop, then stop.
-  
+
 * **When we disagree, try to understand why**: Disagreements, both social and technical, happen all the time. We must resolve disagreements and differing views constructively. Remember that we’re different. The strength of our community comes from its diversity, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
 
 This code is not exhaustive or complete. It serves to distill our common understanding of a collaborative, shared environment, and goals. We expect it to be followed in spirit as much as in the letter.
@@ -62,6 +65,6 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately. If
 
 ## Thanks
 
-This code of conduct is based on the [Open Code of Conduct](https://github.com/todogroup/opencodeofconduct) from the [TODOGroup](http://todogroup.org) and the existing documents from [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). 
+This code of conduct is based on the [Open Code of Conduct](https://github.com/todogroup/opencodeofconduct) from the [TODOGroup](http://todogroup.org) and the existing documents from [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
 We are thankful for their work and all the communities who have paved the way with code of conducts.
