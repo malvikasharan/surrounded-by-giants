@@ -18,8 +18,8 @@ comments: true
 <li>Focus on what is best for the community</li>
 <li>Show courtesy and respect towards other community members</li>
 
-<p>If you believe someone is violating the Code of Conduct, we ask that you report it the owner of this page by emailing [email.surroundedbygiants@gmail.com](mailto:email.surroundedbygiants@gmail.com
-email.surroundedbygiants@gmail.com). We, the core members of this community, will take the appropriate action to address the situation.</p>
+<p>If you believe someone is violating the Code of Conduct, we ask that you report it the owner of this page by emailing <a href="mailto: email.surroundedbygiants@gmail.com">
+email.surroundedbygiants@gmail.com</a>. We, the core members of this community, will take the appropriate action to address the situation.</p>
 
 <h3>Our open source community strives to:</h3>
 

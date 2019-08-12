@@ -15,19 +15,13 @@ comments: true
 
 <h4 id="features" class="mt-4">List</h4>
 
-<ul>
 <li>List name</li>
-
 <li>Point 1</li>
-
 <li>Point 2</li>
-
-</ul>
 
 <h4 id="howtouse">what more?</h4>
 
 <p>Stuff</p>
-
 
 <h4>Want to correct stuff in my blogs?</h4>
 
