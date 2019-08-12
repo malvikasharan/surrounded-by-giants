@@ -1,4 +1,9 @@
-### Participation and Contribution Guideline
+---
+layout: participate
+title: Participation and Contribution Guideline
+permalink: /participate
+comments: true
+---
 
 #### Posting on this platform
 
