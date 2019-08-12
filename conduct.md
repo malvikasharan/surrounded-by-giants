@@ -1,6 +1,6 @@
 # Code of Conduct
 
-This code of conduct outlines our expectations for participants within this group and the community of readers, authors, developers, and visitors. It also lists the ways to report unacceptable behavior.
+This code of conduct outlines our expectations for participants within this group and the community of readers, authors, developers, contributors, and visitors. It also lists the ways to report unacceptable behavior.
 
 We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants accept to abide by the Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form or behaviour to exclude, intimidate or cause discomfort is a violation of the Code of Conduct. To foster a positive and professional learning environment we encourage the following kinds of behaviours in all platforms and events:
 
