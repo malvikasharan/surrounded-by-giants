@@ -1,4 +1,9 @@
-# Code of Conduct
+---
+layout: conduct
+title: Code of Conduct
+permalink: /conduct
+comments: true
+---
 
 This code of conduct outlines our expectations for participants within this group as a community of readers, authors, developers, contributors, etc. (see different ways to [participate](./../participate)). It also lists the ways to report unacceptable behavior.
 
