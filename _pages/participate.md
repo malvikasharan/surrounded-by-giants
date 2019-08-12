@@ -10,7 +10,7 @@ comments: true
 
 <h3>Posting on this platform</h3>
 
-<p>You are very welcome to share your posts on this platform using the basic <a href="https://raw.githubusercontent.com/malvikasharan/surrounded-by-giants/gh-pages/template.md">GitHub template for the blog post</a> - <a href="{{ site.baseurl }}/template">rendered page on this Gitpage</a></p>
+<p>You are very welcome to share your posts on this platform using the basic <a href="https://raw.githubusercontent.com/malvikasharan/surrounded-by-giants/gh-pages/_pages/template.md">GitHub template for the blog post</a> - <a href="{{ site.baseurl }}/template">rendered page on this Gitpage</a></p>
 
 <p>Some topics that I like to discuss about are computational communities, Open Science, informatics, training, and personal experience in academia. However, there is no limit of topics that you can write about to post on this platform.</p>
 
@@ -23,7 +23,7 @@ comments: true
 <p>You can take one or more of the following roles in this community:</p>
 
 <ul>
-<li>Author: Do you have a story to tell which might be relevant for this platform? Please write a blog post for us by using <a href="{{ site.baseurl }}/template">this template</a>.</li>
+<li>Author: Do you have a story to tell which might be relevant for this platform? Please write a blog post for us by using <a href="https://raw.githubusercontent.com/malvikasharan/surrounded-by-giants/gh-pages/_pages/template.md">this template</a>.</li>
 <li>Editor: Do you like editing other drafts by improving their clarity and readability? Become our editor and help us improve our content.</li>
 <li>Maintainer: Do you like what you see in this platform and want to maintain it by taking care of the repo, and maintaining its contents? Become our maintainer.</li>
 <li>Developer: Do you love to develop and improve the Gitpages, and have some ideas to improve this platform? We would love to hear from you and get your contribution in sustaining this platform and making it an accessible space.</li>
@@ -34,4 +34,4 @@ comments: true
 
 <h4>Is there any other way you would like to participate in this platform?</h4>
 
-<p>Share your ideas, opinions, and feedback with me by emailing <a href-"mailto: email.surroundedbygiants@gmail.com">email.surroundedbygiants@gmail.com</a>.<p>
+<p>Share your ideas, opinions, and feedback with me by emailing <a href="mailto: email.surroundedbygiants@gmail.com">email.surroundedbygiants@gmail.com</a>.<p>
