@@ -79,12 +79,12 @@ ga('send', 'pageview');
                 <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
 		    
-		{% if page.url == "/contact.html" %}
+		{% if page.url == "/participate.html" %}
                 <li class="nav-item active">
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/contact">Contact</a>
+                <a class="nav-link" href="{{ site.baseurl }}/participate">Participate</a>
                 </li>
 		    
 		{% if page.url == "/conduct.html" %}
@@ -94,13 +94,21 @@ ga('send', 'pageview');
                 {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/conduct">Code of Conduct</a>
                 </li>
-		    
-		{% if page.url == "/participate.html" %}
+
+		{% if page.url == "/author.html" %}
                 <li class="nav-item active">
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/participate">Participate</a>
+                <a class="nav-link" href="{{ site.baseurl }}/author">Contact</a>
+                </li>
+		    
+		{% if page.url == "/contact.html" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/contact">Contact</a>
                 </li>
 		    
 		{% if page.url == "/etc.html" %}
@@ -110,7 +118,6 @@ ga('send', 'pageview');
                 {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/etc">etc</a>
                 </li>
-                
 		<!-- 
                 <li class="nav-item">
                 <a class="nav-link" href="https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip"><i class="fas fa-download"></i> Download</a>
