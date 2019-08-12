@@ -6,7 +6,7 @@ comments: true
 ---
 
 <div class="row justify-content-between">
-<div class="col-md-8 pr-5">    
+<div class="col-md-8 pr-5">
 
 <p>What is the name? What is the blog? Why? Who?</p>
 
