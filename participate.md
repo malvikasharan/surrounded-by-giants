@@ -1,20 +1,18 @@
-#
+### Participation and Contribution Guideline
 
-## Participation and Contribution Guideline
-
-### Posting on this platform
+#### Posting on this platform
 
 You are very welcome to share your posts on this platform using the basic template below:
 - [Template for the blog post](./template)
 
 Some topics that I like to discuss about are computational communitites, Open Science, informatics, training, and personal experience in academia. However, there is no limit of topics that you can write about to post on this platform. 
 
-### Participating in this platform
+#### Participating in this platform
 
 We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. Please see the following document that coveres our recommendation for participation in the community space:
 - [Code of Conduct](./../conduct)
 
-### Roles within this community
+#### Roles within this community
 
 You can take one or more of the following roles in this community:
 
@@ -27,6 +25,6 @@ You can take one or more of the following roles in this community:
 - Commenter: Comment on the post to share your views and engage with others in this platform on the relevant topic as that of the posts.
 
 
-#### Can you think of other ways that you can participate in or contribute to this platform? 
+##### Is there any other way you would like participate in this platform? 
 
 Share your ideas, opinions, and feedback with me by emailing [email.surroundedbygiants@gmail.com](mailto:email.surroundedbygiants@gmail.com).
