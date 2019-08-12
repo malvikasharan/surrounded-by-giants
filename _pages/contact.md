@@ -1,5 +1,5 @@
 ---
-layout: contact
+layout: page
 title: Get in touch with us!
 permalink: /contact
 comments: true

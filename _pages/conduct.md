@@ -1,5 +1,5 @@
 ---
-layout: conduct
+layout: page
 title: Code of Conduct
 permalink: /conduct
 comments: true
@@ -43,7 +43,9 @@ email.surroundedbygiants@gmail.com</a>. We, the core members of this community, 
 <li>Advocating for, or encouraging, any of the above behavior.</li>
 <li>Repeated harassment of others. In general, if someone asks you to stop, then stop.</li>
 
-<h4>When we disagree, try to understand why<h4> <p>Disagreements, both social and technical, happen all the time. We must resolve disagreements and differing views constructively. Remember that we’re different. The strength of our community comes from its diversity, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.</p>
+<h4>When we disagree, try to understand why</h4>
+
+<p>Disagreements, both social and technical, happen all the time. We must resolve disagreements and differing views constructively. Remember that we’re different. The strength of our community comes from its diversity, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.</p>
 
 <p>This code is not exhaustive or complete. It serves to distill our common understanding of a collaborative, shared environment, and goals. We expect it to be followed in spirit as much as in the letter.</p>
 

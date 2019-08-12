@@ -1,5 +1,5 @@
 ---
-layout: participate
+layout: page
 title: Participation and Contribution Guideline
 permalink: /participate
 comments: true

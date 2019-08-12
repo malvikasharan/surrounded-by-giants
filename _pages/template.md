@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Title of your post"
-author: yourname
+author: YourName
 categories: [ General, Blogs ]
 image: assets/images/unsplash-nate_dumlao.jpeg
+permalink: /template
 featured: true
 hidden: true
 comments: true
