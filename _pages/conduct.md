@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This code of conduct outlines our expectations for participants within this group as a community of readers, authors, developers, contributors, etc. (see different ways to  <a href="./../participate">participate</a>. It also lists the ways to report unacceptable behavior.</p>
+<p>This code of conduct outlines our expectations for participants within this group as a community of readers, authors, developers, contributors, etc. (see different ways to  <a href="{{ site.baseurl }}/participate">participate</a>. It also lists the ways to report unacceptable behavior.</p>
 
 <p>We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants accept to abide by the Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form or behaviour to exclude, intimidate or cause discomfort is a violation of the Code of Conduct. To foster a positive and professional learning environment we encourage the following kinds of behaviours in all platforms and events:</p>
 
