@@ -1,6 +1,6 @@
 # Code of Conduct
 
-This code of conduct outlines our expectations for participants within the WiS-CSG group and the community, as well as steps to reporting unacceptable behavior.
+This code of conduct outlines our expectations for participants within this group and the community of readers, authors, developers, and visitors. It also lists the ways to report unacceptable behavior.
 
 We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants accept to abide by the Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form or behaviour to exclude, intimidate or cause discomfort is a violation of the Code of Conduct. To foster a positive and professional learning environment we encourage the following kinds of behaviours in all platforms and events:
 
@@ -10,7 +10,8 @@ We are dedicated to providing a welcoming and supportive environment for all peo
 - Focus on what is best for the community
 - Show courtesy and respect towards other community members
 
-If you believe someone is violating the Code of Conduct, we ask that you report it to by emailing us via [csg.womeninscience@gmail.com](mailto:csg.womeninscience@gmail.com). We, the core members of this community, will take the appropriate action to address the situation.
+If you believe someone is violating the Code of Conduct, we ask that you report it the owner of this page by emailing [email.surroundedbygiants@gmail.com](mailto:email.surroundedbygiants@gmail.com
+email.surroundedbygiants@gmail.com). We, the core members of this community, will take the appropriate action to address the situation.
 
 Our open source community strives to:
 
@@ -43,7 +44,7 @@ Although this list cannot be exhaustive, we explicitly honor all people regardle
 
 ### Reporting Issues
 
-If you experience or witness unacceptable behavior—or have any other concerns—please report it by contacting us via [csg.womeninscience@gmail.com](mailto:csg.womeninscience@gmail.com). All reports will be handled with discretion. In your report please include:
+If you experience or witness unacceptable behavior—or have any other concerns—please report it by contacting us via [email.surroundedbygiants@gmail.com](mailto:email.surroundedbygiants@gmail.com). All reports will be handled with discretion. In your report please include:
 
 - Your contact information.
 - Names (real, nicknames, or pseudonyms) of any individuals involved. If there are additional witnesses, please
