@@ -7,16 +7,16 @@ permalink: /participate
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Want to correct stuff in my blogs? Head over to my <a href="https:https://github.com/malvikasharan/surrounded-by-giants/tree/gh-pages/_posts">Github repository</a>!</p>
+<p>Want to correct stuff in my blogs? Head over to my <a href="https:https://github.com/malvikasharan/blogs/tree/gh-pages/_posts">Github repository</a>!</p>
 
-<p>You are also welcome to share your posts on this platform using the basic <a href="https://raw.githubusercontent.com/malvikasharan/surrounded-by-giants/gh-pages/_pages/template.md">GitHub template for the blog post</a> - <a href="{{ site.baseurl }}/template">rendered page on this Gitpage</a></p>
+<p>You are also welcome to share your posts on this platform using the basic <a href="https://raw.githubusercontent.com/malvikasharan/blogs/gh-pages/_pages/template.md">GitHub template for the blog post</a> - <a href="{{ site.baseurl }}/template">rendered page on this Gitpage</a></p>
 
 <p>Some topics that I like to discuss about are computational communities, Open Science, informatics, training, and personal experience in academia. However, there is no limit of topics that you can write about to post on this platform.</p>
 
 <p>You can take one or more of the following roles when participating:</p>
 
 <ul>
-<li><b>Author</b>: Do you have a story to tell which might be relevant for this platform? Please write a blog post for us by using <a href="https://raw.githubusercontent.com/malvikasharan/surrounded-by-giants/gh-pages/_pages/template.md">this template</a>.</li>
+<li><b>Author</b>: Do you have a story to tell which might be relevant for this platform? Please write a blog post for us by using <a href="https://raw.githubusercontent.com/malvikasharan/blogs/gh-pages/_pages/template.md">this template</a>.</li>
 <li><b>Editor</b>: Do you like editing other drafts by improving their clarity and readability? Become an editor and help us improve the content.</li>
 <li><b>Maintainer</b>: Do you like what you see in this platform and want to maintain it by taking care of the repo, and maintaining its contents? Become a maintainer.</li>
 <li><b>Developer</b>: Do you love to develop and improve the Gitpages, and have some ideas to improve this platform? We would love to hear from you and get your contribution in sustaining this platform and making it an accessible space.</li>
