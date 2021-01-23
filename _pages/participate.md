@@ -7,13 +7,9 @@ permalink: /participate
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<h3>Want to correct stuff in my blogs?</h3>
+<p>Want to correct stuff in my blogs? Head over to my <a href="https:https://github.com/malvikasharan/surrounded-by-giants/tree/gh-pages/_posts">Github repository</a>!</p>
 
-Head over to my <a href="https:https://github.com/malvikasharan/surrounded-by-giants/tree/gh-pages/_posts">Github repository</a>!
-
-<h3>Posting on this platform</h3>
-
-<p>You are very welcome to share your posts on this platform using the basic <a href="https://raw.githubusercontent.com/malvikasharan/surrounded-by-giants/gh-pages/_pages/template.md">GitHub template for the blog post</a> - <a href="{{ site.baseurl }}/template">rendered page on this Gitpage</a></p>
+<p>You are also welcome to share your posts on this platform using the basic <a href="https://raw.githubusercontent.com/malvikasharan/surrounded-by-giants/gh-pages/_pages/template.md">GitHub template for the blog post</a> - <a href="{{ site.baseurl }}/template">rendered page on this Gitpage</a></p>
 
 <p>Some topics that I like to discuss about are computational communities, Open Science, informatics, training, and personal experience in academia. However, there is no limit of topics that you can write about to post on this platform.</p>
 
@@ -25,7 +21,6 @@ Head over to my <a href="https:https://github.com/malvikasharan/surrounded-by-gi
 <li><b>Maintainer</b>: Do you like what you see in this platform and want to maintain it by taking care of the repo, and maintaining its contents? Become our maintainer.</li>
 <li><b>Developer</b>: Do you love to develop and improve the Gitpages, and have some ideas to improve this platform? We would love to hear from you and get your contribution in sustaining this platform and making it an accessible space.</li>
 <li><b>Moderator</b>: Do you want to help us ensure that the posts on this platform or comments on different posts are relevant? Become our moderators.</li>
-<li><b>Code of Conduct facilitator</b>: We want to make this platform open, and inclusive for everyone. Our Code of Conduct provides the basic guideline to set a welcoming tone in this community space. You can take a role of the Code of Conduct facilitator by helping the core team in improving the community guideline, and resolving any incidence reported within the community space.</li>
 <li><b>Commenter</b>: Comment on the post to share your views and engage with others in this platform on the relevant topic as that of the posts.</li>
 </ul>
 
@@ -36,9 +31,9 @@ Head over to my <a href="https:https://github.com/malvikasharan/surrounded-by-gi
 <li>Use welcoming and inclusive language</li>
 <li>Be respectful of different viewpoints and experiences</li>
 <li>Gracefully accept constructive criticism</li>
-<li>Focus on what is best for the community</li>
-<li>Show courtesy and respect towards other community members</li></p>
+<li>Show courtesy and respect towards other contributors and readers</li></p>
+<li>Focus on what is best for everyone</li>
 
 <h4>Get in touch</h4>
 
-<p>Share your ideas, opinions, and feedback or report any problem by contacting me. Find details on my <a href="">webpage</a>https://malvikasharan.github.io/<p>
+<p>Share your ideas, opinions, and feedback or report any problem by contacting me. Find details on my webpage: <a href="https://malvikasharan.github.io/">malvikasharan.github.io</a><p>
