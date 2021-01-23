@@ -4,7 +4,7 @@ description: "Open Science, Community Building and Other Stories - by Malvika Sh
 meta_description: "I write blog posts on Open Science practices, community building, inclusiveness in research and related topics."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /surrounded-by-giants
+baseurl: /blogs
 google_analytics: 'UA-134359332-1' #'UA-46278016-1'
 include: ["_pages"]
 permalink: /:title/
@@ -17,9 +17,9 @@ authors:
     name: Malvika Sharan
     display_name: MalvikaSharan
     gravatar: 161196cf47af0d0c5873319fe90a7109
-    web: https://malvikasharan.github.io/surrounded-by-giants
+    web: https://malvikasharan.github.io/blogs
     twitter: https://twitter.com/MalvikaSharan
-    description: "Author of Surrounded by Giants."
+    description: "This is the blog page by Malvika Sharan."
 
 # Plugins
 plugins:
