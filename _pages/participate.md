@@ -17,10 +17,10 @@ permalink: /participate
 
 <ul>
 <li><b>Author</b>: Do you have a story to tell which might be relevant for this platform? Please write a blog post for us by using <a href="https://raw.githubusercontent.com/malvikasharan/surrounded-by-giants/gh-pages/_pages/template.md">this template</a>.</li>
-<li><b>Editor</b>: Do you like editing other drafts by improving their clarity and readability? Become our editor and help us improve our content.</li>
-<li><b>Maintainer</b>: Do you like what you see in this platform and want to maintain it by taking care of the repo, and maintaining its contents? Become our maintainer.</li>
+<li><b>Editor</b>: Do you like editing other drafts by improving their clarity and readability? Become an editor and help us improve the content.</li>
+<li><b>Maintainer</b>: Do you like what you see in this platform and want to maintain it by taking care of the repo, and maintaining its contents? Become a maintainer.</li>
 <li><b>Developer</b>: Do you love to develop and improve the Gitpages, and have some ideas to improve this platform? We would love to hear from you and get your contribution in sustaining this platform and making it an accessible space.</li>
-<li><b>Moderator</b>: Do you want to help us ensure that the posts on this platform or comments on different posts are relevant? Become our moderators.</li>
+<li><b>Moderator</b>: Do you want to help us ensure that the posts on this platform or comments on different posts are relevant? Become a moderator.</li>
 <li><b>Commenter</b>: Comment on the post to share your views and engage with others in this platform on the relevant topic as that of the posts.</li>
 </ul>
 
@@ -31,7 +31,7 @@ permalink: /participate
 <li>Use welcoming and inclusive language</li>
 <li>Be respectful of different viewpoints and experiences</li>
 <li>Gracefully accept constructive criticism</li>
-<li>Show courtesy and respect towards other contributors and readers</li></p>
+<li>Show courtesy and respect towards other contributors and readers</li>
 <li>Focus on what is best for everyone</li>
 
 <h4>Get in touch</h4>
