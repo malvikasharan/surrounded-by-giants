@@ -1,12 +1,11 @@
 # Site
 name: "Surrounded by Giants"
 description: "Science, Community and Stories - by Malvika Sharan"
-meta_description: "Stories, interviews and personal experiences about and from Open Science Community members."
+meta_description: "I write blog posts on Open Science practices, community building, inclusiveness in research and related topics."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /surrounded-by-giants
 google_analytics: 'UA-134359332-1' #'UA-46278016-1'
-disqus: 'surroundedbygiants' #'demowebsite'
 include: ["_pages"]
 permalink: /:title/
 
@@ -22,24 +21,16 @@ authors:
     web: https://malvikasharan.github.io/surrounded-by-giants
     twitter: https://twitter.com/MalvikaSharan
     description: "Author of Surrounded by Giants."
-  davey:
-    name: Norman Davey
-    display_name: NormanDavey
-    gravatar: 161196cf47af0d0c5873319fe90a7109
-    email: email.surroundedbygiants@gmail.com
-    web: 
-    twitter: https://twitter.com/DaveyLab
-    description: "contributor of Surrounded by Giants."
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-gist
-    
+
 # Archives
 jekyll-archives:
   enabled:
@@ -47,11 +38,11 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
-# Pagination 
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 markdown: kramdown
 highlighter: rouge

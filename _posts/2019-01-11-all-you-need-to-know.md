@@ -6,7 +6,6 @@ categories: [ General, Blogs ]
 image: assets/images/unsplash-kazuend.jpeg
 featured: true
 hidden: true
-comments: true
 ---
 
 ## What to expect from *Surrounded by Giants*?

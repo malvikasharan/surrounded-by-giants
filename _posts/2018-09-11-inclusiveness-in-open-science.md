@@ -6,7 +6,6 @@ categories: [ OpenStuff, Speakerdeck ]
 image: assets/images/unsplash-sharonmccutcheon.jpeg
 featured: true
 hidden: true
-comments: true
 ---
 
 ## Inclusiveness in Open Science
