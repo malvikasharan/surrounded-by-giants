@@ -7,7 +7,6 @@ image: assets/images/unsplash-nate_dumlao.jpeg
 permalink: /template
 featured: true
 hidden: true
-comments: true
 ---
 
 ## Add a longer title here
