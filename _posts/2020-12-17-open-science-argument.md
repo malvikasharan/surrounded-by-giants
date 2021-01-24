@@ -6,7 +6,7 @@ categories: [ Community, open science, Tips ]
 image: https://images.unsplash.com/photo-1546410531-bb4caa6b424d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1651&q=80
 ---
 
-*This post was originally written for the Software Sustainability Institute’s [10 years blog series](https://www.software.ac.uk/blog/2020-12-17-ten-arguments-against-open-science-you-can-win).*
+*This post was originally written for the SSI’s [10 years blog series](https://www.software.ac.uk/blog/2020-12-17-ten-arguments-against-open-science-you-can-win). More blogs from me on SSI page can be seen [here](https://www.software.ac.uk/author/malvika-sharan)*
 
 Imagine, someone wants to argue with you about Open Science. (I know, who would do such a thing?) There is this person who is on a Zoom call with you (keeping it appropriate for 2020) and they bring up some really solid arguments against Open Science over a friendly discussion.
 
