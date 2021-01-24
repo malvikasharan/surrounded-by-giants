@@ -8,9 +8,13 @@ image: https://images.unsplash.com/photo-1523540939399-141cbff6a8d7?ixlib=rb-1.2
 
 *This talk was given in a panel organised by [Declaration of Research Assessment (DORA)](https://sfdora.org/): Addressing Roadblocks in Research Assessment Reform. Slides are available on [Zenodo](https://zenodo.org/record/4013300) and can be cited as "Sharan, Malvika. (2020, September). Challenges in Assessing Contributions to Reproducible Research and Open Science. Zenodo. http://doi.org/10.5281/zenodo.4013300"*
 
-Reproducibility is when the same steps are applied to the same data set, it should produce the same results. Reproducibility together with transparency in reporting results are indicators of quality research.
+Reproducibility is when the same steps are applied to the same data set, it always produce the same result. Together with transparent reporting, reproducibility provides a great indicator of quality research.
 
-A simple definition that offers us a promising metric for research quality that requires multiple decision-making processes (starting from shaping a research idea, planning, data collection, processing, analysis, publishing, archiving and ensuring that others can build upon our research work, it promotes collaboration over competition. However, I want to draw your attention to a more hidden and invisible work that goes into it. Conducting reproducible research is overwhelming, both resource-wise and skill-wise. And since it is not mandatory for publication, the ultimate reward researchers aim to obtain, these efforts are often led by well-intentioned and self-motivated researchers.
+This might be a simple definition, yet it offers us a promising metric for research quality that requires multiple and often complex decision-making processes.
+Starting from selecting a project idea, planning, data collection, processing, analysing, publishing, archiving and ensuring that others can build upon our research work.
+Ultimately, it promotes collaboration over competition.
+
+In this post, I want to draw your attention to a more hidden and invisible work that goes into it. Conducting reproducible research is overwhelming, both resource-wise and skill-wise. And since it is not mandatory for publication, the ultimate reward researchers aim to obtain, these efforts are often led by well-intentioned and self-motivated researchers.
 
 Let’s look at some of the visible work and tangible outcome researchers achieve in conducting and sharing their work openly:
 - Visible leaders of the projects might receive recognition for the overall success.
