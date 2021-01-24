@@ -14,16 +14,19 @@ This might be a simple definition, yet it offers us a promising metric for resea
 Starting from selecting a project idea, planning, data collection, processing, analysing, publishing, archiving and ensuring that others can build upon our research work.
 Ultimately, it promotes collaboration over competition.
 
-In this post, I want to draw your attention to a more hidden and invisible work that goes into it. Conducting reproducible research is overwhelming, both resource-wise and skill-wise. And since it is not mandatory for publication, the ultimate reward researchers aim to obtain, these efforts are often led by well-intentioned and self-motivated researchers.
-
-Let’s look at some of the visible work and tangible outcome researchers achieve in conducting and sharing their work openly:
-- Visible leaders of the projects might receive recognition for the overall success.
+In this post, I want to draw your attention to a more hidden and invisible work that goes into it. 
+Conducting research with reproducible workflow can be daunting, both resource-wise and skill-wise. 
+Moreover, it is seldom mandatory for publication; the ultimate reward researchers aim to obtain.
+Hence, most efforts in this area are often led by well-intentioned, self-motivated and often already overworked researchers.
+Here are some visible work and tangible outcome researchers may achieve in conducting and sharing their work openly:
+- Visible leadership of the projects can bring recognition for the overall success.
 - Numbers of publications and successful grants (mind you, there are way more grant applications that are rejected).
 - Growth in community size, for example, if its a software project you can think of the users and collaborators as a community.
 - Open source codebase and documents that are available for reuse under a license.
 - DOI that most of these research outputs can be attached to and the citations can be counted.
 
-There is obviously more to research work, which is often invisible in research outputs. I have listed some of those hidden and invisible labour that exists in open source communities.
+There is obviously more to research work, which is often invisible in research outputs. 
+I have listed some of those hidden and invisible labour that exists in open source communities.
 - Shared leadership efforts and pro-active volunteer work.
 - People who can communicate science to a larger audience for researchers by citizen and participatory science.
 - Staff members who support others, for example, those in core staff positions.
@@ -31,7 +34,7 @@ There is obviously more to research work, which is often invisible in research o
 - We are also aware of the archiving and maintenance roles of librarians and members who continue to take care of our research objects even after the research is over and there is definitely no reward for that.
 - Teaching and mentoring efforts are completely led by self-motivated and often poorly supported individuals - beyond their work.
 
-Here are some highlights of the challenges that exist in recognizing the contributions of both visible and invisible labour in reproducible and open research:
+Here are some highlights of the challenges that exist in recognising the contributions of both visible and invisible labour in reproducible and open research:
 - Most of these contributions are not fairly incentivized.
 - They require specialized skills, that are often not formally taught.
 - They need resources which are not equitably available to everyone, especially talking about low-income organizations, communities, and countries.
@@ -43,9 +46,10 @@ A few initiatives I want to highlight are DORA, UK’s REF, a newly established 
 ![](https://zenodo.org/api/iiif/v2/e4125eaf-b456-4097-85fc-6a2e80482d1c:bee92cdd-41fa-4553-b30e-c8b937c4fc49:1728_TURI_Book%20sprint_26%20culture%20shift_040619.jpg/full/750,/0/default.jpg)
 *"Time for a Culture Shift", The Turing Way Community, & Scriberia. (2019, July 11). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3332808*
 
-We have been hearing this for over a decade that it’s time for a culture change. And I want to add to that the culture change can not truly happen if we fail to recognize less tradition research contributions and disproportionately undermining the important work of research stakeholders who have been previously excluded from being recognised fairly.
+We have been hearing this for over a decade that it’s time for a culture change. 
+And I want to add that the culture change can not truly happen if we fail to recognise less tradition research contributions and disproportionately undermine the important work by stakeholders who have been previously excluded from being recognised fairly.
 
-I would like to give examples of Open Source projects that I work on: _The Turing Way_ and the Open Life Science.
+To explore how we can improve assessment process in our individual projects, I would like to give examples of Open Source projects that I work on: _The Turing Way_ and the Open Life Science.
 
 ***[The Turing Way](https://the-turing-way.netlify.app/welcome): Online community-led book project on Data Science.***
 
