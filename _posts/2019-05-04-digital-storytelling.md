@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Digital storytelling for community engagement"
+title:  "Digital Storytelling for Culture Change in Community"
 author: sharan
 categories: [ Community, managers, Tips ]
 image: https://images.unsplash.com/photo-1493528237448-144452699e16?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2065&q=80
@@ -9,8 +9,6 @@ image: https://images.unsplash.com/photo-1493528237448-144452699e16?ixlib=rb-1.2
 > “Stories matter. Many stories matter. Stories have been used to dispossess and to malign, but stories can also be used to empower and to humanize. Stories can break the dignity of a people, but stories can also repair that broken dignity.”  - [Chimamanda Ngozi Adichie](https://twitter.com/ChimamandaReal), [The Danger of a Single Story](https://ngl.cengage.com/21centuryreading/resources/sites/default/files/B3_TG_AT7_0.pdf)
 
 *This post is the case study from my participation at the [Mozilla Open Leaders Cohort 7](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/round-7/participants/participants---cohort-f/) from January-May 2019.*
-
-## Digital Storytelling for Culture Change
 
 ## Project background
 
