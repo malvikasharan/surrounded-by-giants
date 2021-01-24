@@ -6,7 +6,7 @@ categories: [ Community, managers, Tips ]
 image: https://images.unsplash.com/photo-1524634659287-07de7c333bed?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1649&q=80
 ---
 
-*This post was originally written for the [Software Sustainability Institute's blog series](https://software.ac.uk/blog/2019-09-02-how-be-pessimistic-organiser-successful-events).*
+*This post was originally written for the [Software Sustainability Institute's blog series](https://software.ac.uk/blog/2019-09-02-how-be-pessimistic-organiser-successful-events). More blogs from me on SSI page can be seen [here](https://www.software.ac.uk/author/malvika-sharan)*
 
 Let me start by saying that I am a positive person (generally speaking!). If you tell me about a disaster, I will try to find something positive in it. Having made that disclaimer, I can now safely say that I am a bit pessimistic too. Therefore, no matter how positive I am about my training and outreach events as a community manager, I am ready to fight the disaster that hasn’t occurred yet.
 
