@@ -4,6 +4,8 @@ title:  "10 arguments against Open Science that you can win"
 author: sharan
 categories: [ Community, open science, Tips ]
 image: https://images.unsplash.com/photo-1546410531-bb4caa6b424d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1651&q=80
+featured: true
+hidden: true
 ---
 
 *This post was originally written for the SSI’s [10 years blog series](https://www.software.ac.uk/blog/2020-12-17-ten-arguments-against-open-science-you-can-win). More blogs from me on SSI page can be seen [here](https://www.software.ac.uk/author/malvika-sharan)*
