@@ -77,7 +77,7 @@ In the same 5 aspects, in this project:
 4. **Quality control**: The quality assessment depends on the commitment and not by the extent someone has developed their projects. There is also peer-networking, mentor guidance, check-ins and certification at the end of each cohort.
 5. **Community**: we aim to connect a community of community builders who are empowered to design inclusive, not only open, research projects.
 
-Here I provided two different systems that have evolved to recognise people for different roles that have emerged separately in these projects.
+Here I provided two independent systems that have evolved to recognise people for different roles that have emerged separately in these projects.
 I want to make it clear that we can not and should not standardize the way we recognise labour (visible or invisible) across different research domains and open source communities.
 There is no silver bullet or a system that can equitably recognise diverse roles and contributions that emerge independently and sporadically in all projects.
 
@@ -88,7 +88,7 @@ There is no silver bullet or a system that can equitably recognise diverse roles
 
 We have been hearing this for a long time that it’s time for a culture change.
 The culture change can not truly happen if we fail to recognise less traditional research contributions. 
-By thoughtfully and collaboratively setting-up multiple pathways for recognising all kinds of work in our projects, we will to ensure that we do not continue to promote a system that disproportionately undermine important work carried out by research stakeholders, especially those who have been previously and continuously left behind.
+By thoughtfully and collaboratively setting-up multiple pathways for recognising all kinds of work in our projects, we will ensure that we do not promote a system that disproportionately undermine important work carried out by different members, especially those who have been previously and continuously left behind.
 By incentivising collaboration and welcoming diversity of ideas, we can move away from the competitive and individualistic nature of academic evaluation.
 
 With that, I would like to acknowledge my colleagues and community members from _The Turing Way_, especially Kirstie Whitaker and Open Life Science, particularly Yo Yehudi, Berenice Batut and our volunteer members. 
