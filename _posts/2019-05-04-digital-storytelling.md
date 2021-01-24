@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "5 tips to promote ‘water cooler effects’ at informal discussion sessions"
+title:  "Digital storytelling for community engagement"
 author: sharan
 categories: [ Community, managers, Tips ]
 image: https://images.unsplash.com/photo-1493528237448-144452699e16?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2065&q=80
