@@ -6,11 +6,10 @@ categories: [ Community, managers, Tips ]
 image: https://images.unsplash.com/photo-1557734864-c78b6dfef1b1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2091&q=80
 ---
 
-*Post by Malvika Sharan.*
-
 *Written as a part of her participation at [Bioinformatics Open Source Conference 2019](https://www.open-bio.org/events/bosc/) 
 supported by the [Open Bionformatics Foundation (OBF)](https://www.open-bio.org/) sponsors a Travel Fellowship program fellowship, 
 this post first appeared on the Open Bionformatics Foundation (OBF) website.*
+
 
 The phrase ‘water cooler effect’ is derived from informal gatherings and connections made around water coolers (or vending machines these days!) at the workplace or other formal situations. Such unplanned encounters lead to genuine connections between people resulting in meaningful and productive collaborations. Many research organizations value the importance of such serendipitous interactions, and actively promote them in their work-culture. Conference organizers also recognize its effectiveness and design their program with longer coffee breaks, dedicated slots for informal discussions and designated venues for breakout sessions.
 
