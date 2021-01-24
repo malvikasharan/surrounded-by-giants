@@ -7,7 +7,7 @@ permalink: /participate
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Want to correct stuff in my blogs? Head over to my <a href="https:https://github.com/malvikasharan/blogs/tree/gh-pages/_posts">Github repository</a>!</p>
+<p>Want to correct stuff in my blogs? Head over to my <a href="https://github.com/malvikasharan/blogs/tree/gh-pages/_posts">Github repository</a>!</p>
 
 <p>You are also welcome to share your posts on this platform using the basic <a href="https://raw.githubusercontent.com/malvikasharan/blogs/gh-pages/_pages/template.md">GitHub template for the blog post</a> - <a href="{{ site.baseurl }}/template">rendered page on this Gitpage</a></p>
 
@@ -16,12 +16,12 @@ permalink: /participate
 <p>You can take one or more of the following roles when participating:</p>
 
 <ul>
-<li><b>Author</b>: Do you have a story to tell which might be relevant for this platform? Please write a blog post for us by using <a href="https://raw.githubusercontent.com/malvikasharan/blogs/gh-pages/_pages/template.md">this template</a>.</li>
-<li><b>Editor</b>: Do you like editing other drafts by improving their clarity and readability? Become an editor and help us improve the content.</li>
+<li><b>Author</b>: Do you have a story to tell which might be relevant for this platform? Please write a blog post for this page by using <a href="https://raw.githubusercontent.com/malvikasharan/blogs/gh-pages/_pages/template.md">this template</a>.</li>
+<li><b>Editor</b>: Do you like editing other drafts by improving their clarity and readability? Become an editor and help improve the content.</li>
 <li><b>Maintainer</b>: Do you like what you see in this platform and want to maintain it by taking care of the repo, and maintaining its contents? Become a maintainer.</li>
 <li><b>Developer</b>: Do you love to develop and improve the Gitpages, and have some ideas to improve this platform? We would love to hear from you and get your contribution in sustaining this platform and making it an accessible space.</li>
-<li><b>Moderator</b>: Do you want to help us ensure that the posts on this platform or comments on different posts are relevant? Become a moderator.</li>
-<li><b>Commenter</b>: Comment on the post to share your views and engage with others in this platform on the relevant topic as that of the posts.</li>
+<li><b>Moderator</b>: Do you want to help ensure that the posts on this platform or comments on different posts are relevant? Become a moderator.</li>
+<li><b>Commenter</b>: If the comment section is activated for particular posts, you are welcome to comment to share your views on the relevant topic as that of the posts.</li>
 </ul>
 
 <h3>Participation Guideline</h3>
