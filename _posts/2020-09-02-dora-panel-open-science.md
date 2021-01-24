@@ -8,7 +8,7 @@ image: https://images.unsplash.com/photo-1523540939399-141cbff6a8d7?ixlib=rb-1.2
 
 *This talk was given in a panel organised by [Declaration of Research Assessment (DORA)](https://sfdora.org/): Addressing Roadblocks in Research Assessment Reform. Slides are available on [Zenodo](https://zenodo.org/record/4013300) and can be cited as "Sharan, Malvika. (2020, September). Challenges in Assessing Contributions to Reproducible Research and Open Science. Zenodo. http://doi.org/10.5281/zenodo.4013300"*
 
-Reproducibility is when the same steps are applied to the same data set, they always produce the same result. Reproducibility along with transparent reporting, provide a good indicator of quality research.
+Reproducibility is when the same steps are applied to the same data set, they always produce the same result. Reproducibility along with transparent reporting provide a good indicator of quality research.
 
 This might be a simple definition, yet it offers us a promising way to assess quality of a research work that requires multiple and often complex decision-making processes.
 Starting from selection of a project idea, planning, data collection, processing, analysis, publishing, archiving and ultimately by ensuring that others can build upon our work, it promotes collaboration over competition.
@@ -43,8 +43,7 @@ Here are some highlights of the challenges that exist in recognising the contrib
 There are several metrics of assessment that are put in place, but are not yet widely adopted.
 A few incredible initiatives are [DORA](https://sfdora.org/), UK’s [Research Excellence Framework](https://www.ref.ac.uk/), the newly established [HiddenREF](https://hidden-ref.org/) that aims to recognize hidden labour, [CRediT Taxonomy](https://casrai.org/credit/), [JOSS for publishing software](https://joss.theoj.org/) and [CHAOSS metrics](https://chaoss.community/metrics/) that also takes into non-conventional metrics such as diversity and inclusion into account.
 
-When adapting a metric system for research assessment, we need to involve all stakeholders of research in identifying what kinds of recognition are meaningful for them.
-What will fairly acknowledge their work and make them feel supported while promoting a healthy research culture.
+When adopting a metric system for research assessment, we should involve all stakeholders of research in identifying what kinds of recognition are meaningful for them and where in the chosen system necessary changes can be introduced to ensure that it will fairly incentivise everyone's work and make them feel supported while promoting a healthy research culture.
 For every project we need to define what 'incentives' are valued, who are they designed for, who are involved in designing them and in what ways this will make their experience in the academic system rewarding.
 Answers to these questions will vary from project to project and hence, we should understand, accept, promote and celebrate diverse ways different contributions are recognised.
 
@@ -78,9 +77,9 @@ In the same 5 aspects, in this project:
 4. **Quality control**: The quality assessment depends on the commitment and not by the extent someone has developed their projects. There is also peer-networking, mentor guidance, check-ins and certification at the end of each cohort.
 5. **Community**: we aim to connect a community of community builders who are empowered to design inclusive, not only open, research projects.
 
-Here I provided two separate systems that have evolved to recognise people for their work in two separate projects.
+Here I provided two different systems that have evolved to recognise people for different roles that have emerged separately in these projects.
 I want to make it clear that we can not and should not standardize the way we recognise labour (visible or invisible) across different research domains and open source communities.
-There is no silver bullet or a system that can equitably recognise different roles and contributions that emerge independently and sporadically in all projects.
+There is no silver bullet or a system that can equitably recognise diverse roles and contributions that emerge independently and sporadically in all projects.
 
 ## Closing remark
 
@@ -92,7 +91,8 @@ The culture change can not truly happen if we fail to recognise less traditional
 By thoughtfully and collaboratively setting-up multiple pathways for recognising all kinds of work in our projects, we will to ensure that we do not continue to promote a system that disproportionately undermine important work carried out by research stakeholders, especially those who have been previously and continuously left behind.
 By incentivising collaboration and welcoming diversity of ideas, we can move away from the competitive and individualistic nature of academic evaluation.
 
-With that, I would like to acknowledge my colleagues and community members from The Turing Way, especially Kirstie and the Open Life Science, Yo, and Berenice. All our resources are available under cc-by 4.0, and you are welcome to join and help us improve how we recognize visible and invisible labour in science.
+With that, I would like to acknowledge my colleagues and community members from _The Turing Way_, especially Kirstie Whitaker and Open Life Science, particularly Yo Yehudi, Berenice Batut and our volunteer members. 
+All our resources are available under cc-by 4.0, and you are welcome to join and help us improve how we recognize visible and invisible labour in science.
 
 *Cover image by [@sam_truong](https://unsplash.com/photos/-rF4kuvgHhU) on [Unsplash](https://unsplash.com).*
 
