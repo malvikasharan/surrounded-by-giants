@@ -3,7 +3,7 @@ layout: post
 title:  "Challenges in Assessing Contributions to Reproducible Research and Open Science"
 author: sharan
 categories: [ Community, Speakerdeck, Assessment, DORA ]
-image: assets/images/unsplash-ciabattespugnose.jpeg
+image: https://images.unsplash.com/photo-1523540939399-141cbff6a8d7?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1650&q=80
 ---
 
 *This talk was given in a panel organised by [Declaration of Research Assessment (DORA)](https://sfdora.org/): Addressing Roadblocks in Research Assessment Reform. Slides are available on [Zenodo](https://zenodo.org/record/4013300) and can be cited as "Sharan, Malvika. (2020, September). Challenges in Assessing Contributions to Reproducible Research and Open Science. Zenodo. http://doi.org/10.5281/zenodo.4013300"*
@@ -73,3 +73,5 @@ In the same 5 aspects, in this project:
 We have to understand, what these incentives are, who are the people who we are designing them for, win what ways this will make their experience in the academic system rewarding? As I provided two separate systems in two different projects - it’s clear that answers to all these questions will vary from project to project and we need to understand that they do not have to be standardized across all research domains and open source communities.
 
 With that, I would like to acknowledge my colleagues and community members from The Turing Way, especially Kirstie and the Open Life Science, Yo, and Berenice. All our resources are available under cc-by 4.0, and you are welcome to join and help us improve how we recognize visible and invisible labour in science.
+
+*Cover image by [@sam_truong](https://unsplash.com/photos/-rF4kuvgHhU) on [Unsplash](https://unsplash.com).*
