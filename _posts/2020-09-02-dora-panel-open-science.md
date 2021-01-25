@@ -10,27 +10,27 @@ image: https://images.unsplash.com/photo-1523540939399-141cbff6a8d7?ixlib=rb-1.2
 
 Reproducibility is when the same steps are applied to the same data set, they always produce the same result. Reproducibility along with transparent reporting provides a good indicator of quality research.
 
-This might be a simple definition, yet it offers us a promising way to assess the quality of a research work that requires multiple and often complex decision-making processes.
+This might be a simple definition, yet it offers us a promising way to assess the quality of a research work that requires multiple and complex decision-making processes.
 Starting from the selection of a project idea, planning, data collection, processing, analysis, publishing, archiving and ultimately by ensuring that others can build upon our work, it promotes collaboration over competition.
 
 Nonetheless, conducting research with reproducible workflow can be daunting, both resource-wise and skill-wise. 
 Moreover, it is seldom mandatory for publication; the ultimate reward researchers aim to obtain.
-Hence, most efforts in this area are often led by well-intentioned, self-motivated and often already overworked researchers.
+Hence, most efforts in this area are often led by well-intentioned, self-motivated and already overworked researchers.
 Here are some visible work and tangible outcome researchers may achieve in conducting and sharing their work openly:
-- Visible leadership of the projects can bring recognition for the overall success.
+- People designated to lead the work receive all the credit for the project's success.
 - Numbers of publications and successful grants (mind you, there are way more grant applications that are rejected).
 - Growth in community size, for example, if its a software project you can think of the users and collaborators as a community.
 - Open source code and documents that are available for reuse under a license.
 - Digital Object Identifier that most of these research outputs can be attached to and the citations can be counted.
 
-There is obviously more to research work that is often thankless and unrecognised through the traditional system. In this post, I want to draw your attention to those hidden and invisible work in open and reproducible research. 
+There is obviously more to research work that goes unacknowledged and unrecognised through the traditional system. In this post, I want to draw your attention to those hidden and invisible work in open and reproducible research. 
 A few examples of hidden labour in open source communities are the following:
 - Shared leadership efforts and pro-active volunteer (unpaid) work.
 - Public engagement by communicating science to a larger audience through citizen and participatory science.
 - Supporting role, for example, people in core staff positions.
 - Accessibility and inclusion efforts. Folks who are most affected by a lack of support in this direction end up carrying the burden of work done to change the culture.
 - Archiving and maintenance roles. Librarians and members who continue to take care of our research objects even after the research is over.
-- Teaching and mentoring efforts that are completely led by often poorly supported individuals - beyond their work.
+- Teaching and mentoring efforts that are completely led by usually poorly supported individuals - beyond their work.
 
 Here are some highlights of the challenges that exist in recognising the contributions of both visible and invisible labour in reproducible and open research:
 - Most of these contributions are not fairly incentivized.
