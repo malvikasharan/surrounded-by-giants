@@ -8,10 +8,10 @@ image: https://images.unsplash.com/photo-1523540939399-141cbff6a8d7?ixlib=rb-1.2
 
 *This talk was given in a panel organised by [Declaration of Research Assessment (DORA)](https://sfdora.org/): Addressing Roadblocks in Research Assessment Reform. Slides are available on [Zenodo](https://zenodo.org/record/4013300) and can be cited as "Sharan, Malvika. (2020, September). Challenges in Assessing Contributions to Reproducible Research and Open Science. Zenodo. http://doi.org/10.5281/zenodo.4013300"*
 
-Reproducibility is when the same steps are applied to the same data set, they always produce the same result. Reproducibility along with transparent reporting provide a good indicator of quality research.
+Reproducibility is when the same steps are applied to the same data set, they always produce the same result. Reproducibility along with transparent reporting provides a good indicator of quality research.
 
-This might be a simple definition, yet it offers us a promising way to assess quality of a research work that requires multiple and often complex decision-making processes.
-Starting from selection of a project idea, planning, data collection, processing, analysis, publishing, archiving and ultimately by ensuring that others can build upon our work, it promotes collaboration over competition.
+This might be a simple definition, yet it offers us a promising way to assess the quality of a research work that requires multiple and often complex decision-making processes.
+Starting from the selection of a project idea, planning, data collection, processing, analysis, publishing, archiving and ultimately by ensuring that others can build upon our work, it promotes collaboration over competition.
 
 Nonetheless, conducting research with reproducible workflow can be daunting, both resource-wise and skill-wise. 
 Moreover, it is seldom mandatory for publication; the ultimate reward researchers aim to obtain.
@@ -23,7 +23,7 @@ Here are some visible work and tangible outcome researchers may achieve in condu
 - Open source code and documents that are available for reuse under a license.
 - Digital Object Identifier that most of these research outputs can be attached to and the citations can be counted.
 
-There is obviously more to research work that are often thankless and unrecognised through traditional system. In this post, I want to draw your attention to those hidden and invisible work in open and reproducible research. 
+There is obviously more to research work that is often thankless and unrecognised through the traditional system. In this post, I want to draw your attention to those hidden and invisible work in open and reproducible research. 
 A few examples of hidden labour in open source communities are the following:
 - Shared leadership efforts and pro-active volunteer (unpaid) work.
 - Public engagement by communicating science to a larger audience through citizen and participatory science.
@@ -40,11 +40,11 @@ Here are some highlights of the challenges that exist in recognising the contrib
 
 ## Assessment metrics
 
-There are several metrics of assessment that are put in place, but are not yet widely adopted.
+There are several metrics of assessment that are put in place but are not yet widely adopted.
 A few incredible initiatives are [DORA](https://sfdora.org/), UK’s [Research Excellence Framework](https://www.ref.ac.uk/), the newly established [HiddenREF](https://hidden-ref.org/) that aims to recognize hidden labour, [CRediT Taxonomy](https://casrai.org/credit/), [JOSS for publishing software](https://joss.theoj.org/) and [CHAOSS metrics](https://chaoss.community/metrics/) that also takes into non-conventional metrics such as diversity and inclusion into account.
 
-When adopting a metric system for research assessment, we should involve all stakeholders of research in identifying what kinds of recognition are meaningful for them and where in the chosen system necessary changes can be introduced to ensure that it will fairly incentivise everyone's work and make them feel supported while promoting a healthy research culture.
-For every project we need to define what 'incentives' are valued, who are they designed for, who are involved in designing them and in what ways this will make their experience in the academic system rewarding.
+When adopting a metric system for research assessment, we should involve all stakeholders of research in identifying what kinds of recognition are meaningful for them and where in the chosen system necessary changes can be introduced to ensure that it will fairly incentivise everyone's work and make them feel supported while promoting healthy research culture.
+For every project, we need to define what 'incentives' are valued, who are they designed for, who are involved in designing them and in what ways this will make their experience in the academic system rewarding.
 Answers to these questions will vary from project to project and hence, we should understand, accept, promote and celebrate diverse ways different contributions are recognised.
 
 ## Examples from my work
@@ -55,7 +55,7 @@ To explore this, I would like to give examples of two independent Open Source pr
 
 Let me start by listing the visible metric of success (quantitative assessment) that we have in this project: within 2 years, we have 30 chapters and 134 subchapters co-authored and supported by over 250 contributors and read and share worldwide by 1000s of people.
 
-Then we also have qualitative assessment process in place for acknowledgement of different types of contributions, which I have listed under five aspects: 
+Then we also have a qualitative assessment process in place for acknowledgement of different types of contributions, which I have listed under five aspects: 
 
 1. **Eligibility**: Who is eligible to participate? Anyone interested in contributing to the project is welcome. I believe each of us has some skills that are useful for someone else, and The Turing Way aims to be a vehicle for that.
 2. **System of acknowledgement**: To dismantle the traditional evaluation metric system, we promote a culture of collaboration. Opposite to individual ownership and competitive nature of academia, we promote shared ownership of the project outcome.
@@ -68,10 +68,12 @@ Then we also have qualitative assessment process in place for acknowledgement of
 
 **[Open Life Science](https://openlifesci.org/): 16-week long training and mentoring program.**
 
-In the same 5 aspects, in this project:
+Qualitatively, we can look at statistics from running two cohorts successfully. For example, we received 50% more proposals for the second round than the first one, we managed to receive funding to run two cohorts in 2021 and our pots-cohort surveys have been overwhelmingly positive. We are grateful for the support from an incredible community of open science leaders who are willing to support the next generation of open practitioners.
+
+Using the same 5 aspects for quantitative assessment in this project, we can state the following:
 
 1. **Eligibility**: We involve folks who have a research idea and they want to lead it in their communities.
-2. **System of acknowledgement**: We want to democratize leadership skills for free or low cost so that it is widely accessible for everyone and not just those who have resources and mean to acquire those skills.
+2. **System of acknowledgement**: We want to democratize leadership skills for a free or low cost so that it is widely accessible for everyone and not just those who have resources and mean to acquire those skills.
 3. **Recognition**: We offer a global platform for our members, both for the project leads or mentees to create and highlight their work, and for mentors to get recognition for their inspiring work in the open science communities.
     - Of course, visibility without fair compensation is not enough, therefore we are in the process of establishing an honorarium system for all our members.
 4. **Quality control**: The quality assessment depends on the commitment and not by the extent someone has developed their projects. There is also peer-networking, mentor guidance, check-ins and certification at the end of each cohort.
@@ -88,8 +90,8 @@ There is no silver bullet or a system that can equitably recognise diverse roles
 
 We have been hearing this for a long time that it’s time for a culture change.
 The culture change can not truly happen if we fail to recognise less traditional research contributions. 
-By thoughtfully and collaboratively setting-up multiple pathways for recognising all kinds of work in our projects, we will ensure that we do not promote a system that disproportionately undermine important work carried out by different members, especially those who have been previously and continuously left behind.
-By incentivising collaboration and welcoming diversity of ideas, we can move away from the competitive and individualistic nature of academic evaluation.
+By thoughtfully and collaboratively setting-up multiple pathways for recognising all kinds of work in our projects, we will ensure that we do not promote a system that disproportionately undermines important work carried out by different members, especially those who have been previously and continuously left behind.
+By incentivising collaboration and welcoming the diversity of ideas, we can move away from the competitive and individualistic nature of academic evaluation.
 
 With that, I would like to acknowledge my colleagues and community members from _The Turing Way_, especially Kirstie Whitaker and Open Life Science, particularly Yo Yehudi, Berenice Batut and our volunteer members. 
 All our resources are available under cc-by 4.0, and you are welcome to join and help us improve how we recognize visible and invisible labour in science.
