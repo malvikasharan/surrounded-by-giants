@@ -68,7 +68,7 @@ Then we also have a qualitative assessment process in place for acknowledgement 
 
 **[Open Life Science](https://openlifesci.org/): 16-week long training and mentoring program.**
 
-Qualitatively, we can look at statistics from running two cohorts successfully. For example, we received 50% more proposals for the second round than the first one, we managed to receive funding to run two cohorts in 2021 and our pots-cohort surveys have been overwhelmingly positive. We are grateful for the support from an incredible community of open science leaders who are willing to support the next generation of open practitioners.
+Qualitatively, we can look at statistics from running two cohorts successfully. For example, we received 50% more proposals for the second round than the first one, we managed to receive funding to run two cohorts in 2021 and our post-cohort surveys have been overwhelmingly positive. We are grateful for the support from an incredible community of open science leaders who are willing to support the next generation of open practitioners.
 
 Using the same 5 aspects for quantitative assessment in this project, we can state the following:
 
