@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Participate
-permalink: /participate
+title: Contribute
+permalink: /contribute
 ---
 
 <div class="row justify-content-between">
@@ -19,14 +19,14 @@ permalink: /participate
 <li><b>Author</b>: Do you have a story to tell which might be relevant for this platform? Please write a blog post for this page by using <a href="https://raw.githubusercontent.com/malvikasharan/blogs/gh-pages/_pages/template.md">this template</a>.</li>
 <li><b>Editor</b>: Do you like editing other drafts by improving their clarity and readability? Become an editor and help improve the content.</li>
 <li><b>Maintainer</b>: Do you like what you see in this platform and want to maintain it by taking care of the repo, and maintaining its contents? Become a maintainer.</li>
-<li><b>Developer</b>: Do you love to develop and improve the Gitpages, and have some ideas to improve this platform? We would love to hear from you and get your contribution in sustaining this platform and making it an accessible space.</li>
+<li><b>Developer</b>: Do you love to develop and improve the Gitpages, and have some ideas to improve this platform? I would love to hear from you and get your contribution in sustaining this platform and making it an accessible space.</li>
 <li><b>Moderator</b>: Do you want to help ensure that the posts on this platform or comments on different posts are relevant? Become a moderator.</li>
 <li><b>Commenter</b>: If the comment section is activated for particular posts, you are welcome to comment to share your views on the relevant topic as that of the posts.</li>
 </ul>
 
 <h3>Participation Guideline</h3>
 
-<p>I am committed to providing a welcoming and supportive environment for all people, regardless of background or identity. If you would like to participate, I request that you maintain a positive, respectiful and professional tone in all your posts. When participating in this platform, please follow these recommendations:</p>
+<p>I am committed to providing a welcoming and supportive environment for all people, regardless of background or identity. If you would like to contribute, I request that you maintain a positive, respectful and inclusive tone in all your posts. When participating in this platform, please follow these recommendations:</p>
 
 <li>Use welcoming and inclusive language</li>
 <li>Be respectful of different viewpoints and experiences</li>

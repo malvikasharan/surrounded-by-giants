@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Open Science, Community Building and Other Stories - by Malvika Sharan</description>
+    <link>http://localhost:4000/blogs/</link>
+    <atom:link href="http://localhost:4000/blogs/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 27 Jan 2021 00:08:16 +0000</pubDate>
+    <lastBuildDate>Wed, 27 Jan 2021 00:08:16 +0000</lastBuildDate>
+    <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>10 arguments against Open Science that you can win</title>
+        <description>&lt;p&gt;&lt;em&gt;This post was originally written for the SSI’s &lt;a href=&quot;https://www.software.ac.uk/blog/2020-12-17-ten-arguments-against-open-science-you-can-win&quot;&gt;10 years blog series&lt;/a&gt;. More blogs from me on SSI page can be seen &lt;a href=&quot;https://www.software.ac.uk/author/malvika-sharan&quot;&gt;here&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Imagine, someone wants to argue with you about Open Science. (I know, who would do such a thing?) There is this person who is on a Zoom call with you (keeping it appropriate for 2020) and they bring up some really solid arguments against Open Science over a friendly discussion.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Open Science invites all researchers to share their work, data and research components openly so that others can read, reuse, reproduce, build upon and share them. Particularly in computational research and software development projects, open source practices are widely promoted. Unfortunately, making research components open doesn’t always mean that they can be easily discovered by everyone (&lt;strong&gt;F&lt;/strong&gt;indable and &lt;strong&gt;A&lt;/strong&gt;ccessible), can be reproduced and built upon by others (&lt;strong&gt;I&lt;/strong&gt;nteroperable) or everyone will know how to use them (&lt;strong&gt;R&lt;/strong&gt;eusable, inclusive). Applying &lt;a href=&quot;https://www.go-fair.org/fair-principles/&quot;&gt;FAIR&lt;/a&gt; and &lt;a href=&quot;https://ioppublishing.org/open-access-week-2019/inclusion-for-open-science/&quot;&gt;inclusive&lt;/a&gt; principles to Open Science requires time, intention, resources and collaboration, which can be overwhelming for many.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.software.ac.uk/sites/default/files/Malvikablog.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Image by Behavior Gap for Windgate Wealth management&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;So, of course, Open Science is not perfect. Therefore, it is not hard to point out things that are wrong with the Open Science practices, communities and culture. But, if you are reading this, and if you are passionate about Open Science like me, you would like to be prepared to respond to the arguments that may come up. This post is mostly about focusing on what you can do as an open researcher, while also committing to doing better in the future (always be learning!). I have compiled 10 arguments against Open Science that you can win:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Open Science is not always open&lt;/strong&gt; 
+That’s a solid start because let’s face it. It &lt;em&gt;isn’t&lt;/em&gt; always open because it &lt;a href=&quot;https://www.americanscientist.org/article/open-science-isnt-always-open-to-all-scientists&quot;&gt;inherits systemic barriers that exist in science&lt;/a&gt;. Often our vision of openness is impacted by institutional recommendations made by a handful of decision-makers, which can limit our ability to use or engage with Open Science practices. Even when people put their research components out there, it doesn’t mean they are openly available to everyone due to limited access or permission. Instead of trying to prove your opponent wrong in this argument (which they are completely right about), you can respond by sharing how you are ensuring that your work is open for others. For example, show them how you share your work with an &lt;a href=&quot;https://wiki.creativecommons.org/wiki/Open_license&quot;&gt;open license&lt;/a&gt;, &lt;a href=&quot;https://opensource.com/article/20/3/documentation&quot;&gt;open documentation&lt;/a&gt;, &lt;a href=&quot;https://fairplus.github.io/cookbook-dev/intro.html&quot;&gt;FAIR elements&lt;/a&gt;, &lt;a href=&quot;https://www.elsevier.com/connect/transition-to-open-access-creates-a-challenge-for-global-south&quot;&gt;platforms that are truly open beyond Europe and North America&lt;/a&gt; etc. To add an extra pinch of openness from your end, ask for their opinions on how you can try to make your work more open for them.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Open Science has historically lacked diversity and exhibited a non-inclusive culture&lt;/strong&gt;
+It’s true. Open Science has a history of practising approaches that have institutionally given more advantages to privileged groups of people and have maintained inequality in many open research spaces. Open Science is truly open when it’s inclusive and equitable to a diverse group of individuals who are empowered to bring different skills and perspectives to conduct research collaboratively. Keeping this in mind, let’s agree with your opponent and tell them how you want to design your research to be inclusive by creating a welcoming and accessible community space, sharing skills, involving people in different kinds of tasks (not only computational) and welcoming their ideas.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Current open culture is built on the Western mindset&lt;/strong&gt;
+Hard to contradict this one. Most discussions and actions in Open Science are driven by institutions and players from the West. This means that the focus remains on the development of tools, funding-models and infrastructure that often lack an understanding of underlying power structures, in turn influencing who is or isn’t able to participate in the development processes. This inadvertently excludes members from underrepresented groups and communities from low- and middle-income countries. To continue your friendly and civil arguments, you will need to make sure that you have spent some time learning about &lt;a href=&quot;http://ebooks.iospress.nl/publication/46639&quot;&gt;‘contextualised’ or situated knowledge&lt;/a&gt; that explores how ‘all forms of knowledge reflect the particular conditions in which they are produced, including social identities and social locations of knowledge producers’. Assuming that you do practise this in your work, projects and communities - respond by sharing how you ensure that the decision-making process involves people with different lived-experiences, skills and backgrounds beyond the West (&lt;a href=&quot;https://zenodo.org/record/4051476#.X9JTi16nzOQ&quot;&gt;here are my notes for reference&lt;/a&gt;).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;My institute’s policy would never allow me to share my work openly&lt;/strong&gt;
+This is critical for academics who often lack job security and work on precarious contracts. It would be unreasonable to ask people who have less power influencing their institutional system to engage with Open Science when the result of their openness can cost them their job. Contractual arrangements between authors, publishers, universities, and funding organisations impact the Open Science routes the stakeholders can take while upholding the copyright and data protection regimes. \
+I have two thoughts on this one. First, most research work is funded by public money, hence it is our moral responsibility to make our scientific output available free of cost or restriction. If institutes are not supporting this, a strong case for a more permissive license can be made with the support of the appropriate legal entity in our organisations. \
+Second, of course, not everyone can or wants to influence policy at the institution level, therefore suggest that your opponent integrates open principles to their data management and publication plan when designing their projects and applying for grants to fund their research. This is actually a win-win situation, where your opponent can win their situation individually and you can sneakily win the argument.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;My work is not good enough to share&lt;/strong&gt;
+Now that your opponent is warming up to you as you have dismantled four really compelling arguments, you can see that this argument is not about Open Science anymore. People are genuinely unsure about their work or suffer from self-doubt/imposter syndrome. Show them how by sharing their work openly from the start, they can ask for feedback, integrate innovative ideas and improve the overall quality of their research. Reassure them that everyone has felt that way. Maybe share your personal story about how you got started if you also suffer from imposter syndrome.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;I will definitely get scooped&lt;/strong&gt;
+After the previous argument, we saw this coming, didn’t we? You only need to ask them to show you an example where someone got scooped because of sharing their work openly. I bet they won’t be able to find any proof for their statement. Maybe a good time to tell them how preprints have been extremely crucial to drive much cutting-edge research, including on COVID-19.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;I wrote this code for my data set only&lt;/strong&gt;
+This could be true about most things in research because we almost always write code to automate specific tasks for specific data sets. Moreover, making source code open is not as straightforward as posting a Tweet. Someone will need to create an online repository, add a license, and write documentation. Most people won’t do it if there is no incentive for doing that or if they don’t think it will be used by anyone. However, if it’s useful for them, it is useful for someone else too (any &lt;a href=&quot;https://stackoverflow.com/&quot;&gt;stack overflow&lt;/a&gt; user will back that statement). If you or someone you know have the time to offer support, you can win this argument by asking them if they would need any help putting their code online.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;I can’t maintain it, so why bother sharing&lt;/strong&gt;
+Well, not having the capacity to maintain their resource is surprisingly a good reason to share their research online. I strongly believe that collaborating with users of your resource is a good way to bring them in, upskill them and step out by handing over the responsibility to lead and maintain those resources. If they don’t want to take that path, then help them upload their work to &lt;a href=&quot;https://zenodo.org/&quot;&gt;Zenodo&lt;/a&gt; or &lt;a href=&quot;https://figshare.com/&quot;&gt;Figshare&lt;/a&gt; so that they can release the latest version openly for others to use and get a DOI to receive citations.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;What if people judge my code and preprint?&lt;/strong&gt;
+It is very important to be objective in science. Not everything on the internet that is labelled scientific is true (surprise!). Part of being objective is judging research quality by transparency, reproducibility and reusability standards. Tell your opponent that by making their work open, they will take a step towards being more inclusive and creating more accessible research. This will allow more people to look into their code or preprint and ‘judge them in a good way’ to ensure the highest research quality. It takes some iterations before these processes start to make sense.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;My work will not be acknowledged and that’s not going to help my career&lt;/strong&gt;
+First of all, let’s not put that blame on Open Science alone. Unpaid work and unfair incentive systems in science continue to exist as a way to allow people to enter the workforce, gain new experience and advance their career. Though all of them might be true, they only enable people who can work for free to gain the benefit, disproportionately affecting members from marginalised groups who often can’t afford to work for free. It would be unfair to tell your opponent to play along with the system. However, point them to communities, projects and programs that welcome contributions from diverse members with various skill-levels, and provide meaningful incentives and value-exchange systems for practising openness. If you are feeling generous, tell them to check out &lt;em&gt;&lt;a href=&quot;https://the-turing-way.netlify.app/welcome&quot;&gt;The Turing Way&lt;/a&gt;&lt;/em&gt; data research community, &lt;a href=&quot;https://openlifesci.org/&quot;&gt;Open Life Science&lt;/a&gt; mentoring program and &lt;a href=&quot;https://software.ac.uk/&quot;&gt;Software Sustainability Fellowship&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;There you have it! I hope you feel well-equipped to win these 10 arguments made against Open Science in a manner that can positively influence people to apply best practices into their work (and help you get out of an awkward situation). If not, then go with these 5-steps “&lt;a href=&quot;https://geekfeminism.wikia.org/wiki/Charles%27_Rules_of_Argument&quot;&gt;Charle’s rules of argument&lt;/a&gt;” that almost always work, which says:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Don’t go looking for an argument.&lt;/li&gt;
+  &lt;li&gt;State your position once.&lt;/li&gt;
+  &lt;li&gt;Reply one more time to clarify your position.&lt;/li&gt;
+  &lt;li&gt;Do not reply again.&lt;/li&gt;
+  &lt;li&gt;Spend time doing something fun instead - &lt;em&gt;(self-care! Eat some ice cream, watch trashy TV, dance!)&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Have more arguments that I didn’t discuss here? Share them by commenting under &lt;a href=&quot;https://github.com/codeisscience/code-is-science/issues/97&quot;&gt;this GitHub issue&lt;/a&gt; or ‘openly’ tweet about it (tag me &lt;a href=&quot;https://twitter.com/MalvikaSharan&quot;&gt;@malvikasharan&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thanks to Yo Yehudi for sharing this list of &lt;a href=&quot;https://github.com/codeisscience/code-is-science/tree/master/content/reasons&quot;&gt;reasons why scientists don’t share code&lt;/a&gt;, collected by the session attendees of &lt;a href=&quot;http://www.codeisscience.com/&quot;&gt;Code is Science&lt;/a&gt; at Mozfest 2017.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Cover photo on Unsplash by &lt;a href=&quot;https://unsplash.com/photos/WE_Kv_ZB1l0&quot;&gt;@timmossholder&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blogs/open-science-argument/</link>
+        <guid isPermaLink="true">http://localhost:4000/blogs/open-science-argument/</guid>
+        
+        
+        <category>Community</category>
+        
+        <category>open science</category>
+        
+        <category>Tips</category>
+        
+      </item>
+    
+      <item>
+        <title>Challenges in Assessing Contributions to Reproducible Research and Open Science</title>
+        <description>&lt;p&gt;&lt;em&gt;This talk was given in a panel organised by &lt;a href=&quot;https://sfdora.org/&quot;&gt;Declaration of Research Assessment (DORA)&lt;/a&gt;: Addressing Roadblocks in Research Assessment Reform. Slides are available on &lt;a href=&quot;https://zenodo.org/record/4013300&quot;&gt;Zenodo&lt;/a&gt; and can be cited as “Sharan, Malvika. (2020, September). Challenges in Assessing Contributions to Reproducible Research and Open Science. Zenodo. http://doi.org/10.5281/zenodo.4013300”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Reproducibility is when the same steps are applied to the same data set, they always produce the same result. Reproducibility along with transparent reporting provides a good indicator of quality research.&lt;/p&gt;
+
+&lt;p&gt;This might be a simple definition, yet it offers us a promising way to assess the quality of a research work that requires multiple and complex decision-making processes.
+Starting from the selection of a project idea, planning, data collection, processing, analysis, publishing, archiving and ultimately by ensuring that others can build upon our work, it promotes collaboration over competition.&lt;/p&gt;
+
+&lt;p&gt;Nonetheless, conducting research with reproducible workflow can be daunting, both resource-wise and skill-wise. 
+Moreover, it is seldom mandatory for publication; the ultimate reward researchers aim to obtain.
+Hence, most efforts in this area are often led by well-intentioned, self-motivated and already overworked researchers.
+Here are some visible work and tangible outcome researchers may achieve in conducting and sharing their work openly:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;People designated to lead the work receive all the credit for the project’s success.&lt;/li&gt;
+  &lt;li&gt;Numbers of publications and successful grants (mind you, there are way more grant applications that are rejected).&lt;/li&gt;
+  &lt;li&gt;Growth in community size, for example, if its a software project you can think of the users and collaborators as a community.&lt;/li&gt;
+  &lt;li&gt;Open source code and documents that are available for reuse under a license.&lt;/li&gt;
+  &lt;li&gt;Digital Object Identifier that most of these research outputs can be attached to and the citations can be counted.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There is obviously more to research work that goes unacknowledged and unrecognised through the traditional system. In this post, I want to draw your attention to those hidden and invisible work in open and reproducible research. 
+A few examples of hidden labour in open source communities are the following:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Shared leadership efforts and pro-active volunteer (unpaid) work.&lt;/li&gt;
+  &lt;li&gt;Public engagement by communicating science to a larger audience through citizen and participatory science.&lt;/li&gt;
+  &lt;li&gt;Supporting role, for example, people in core staff positions.&lt;/li&gt;
+  &lt;li&gt;Accessibility and inclusion efforts. Folks who are most affected by a lack of support in this direction end up carrying the burden of work done to change the culture.&lt;/li&gt;
+  &lt;li&gt;Archiving and maintenance roles. Librarians and members who continue to take care of our research objects even after the research is over.&lt;/li&gt;
+  &lt;li&gt;Teaching and mentoring efforts that are completely led by usually poorly supported individuals - beyond their work.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here are some highlights of the challenges that exist in recognising the contributions of both visible and invisible labour in reproducible and open research:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Most of these contributions are not fairly incentivized.&lt;/li&gt;
+  &lt;li&gt;They require specialized skills, that are often not formally taught.&lt;/li&gt;
+  &lt;li&gt;They need resources which are not equitably available to everyone, especially in low-income organizations, communities, and countries.&lt;/li&gt;
+  &lt;li&gt;Specifically talking about invisible contributions, they are very hard to assess, and many volunteer-led efforts are happening there.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;assessment-metrics&quot;&gt;Assessment metrics&lt;/h2&gt;
+
+&lt;p&gt;There are several metrics of assessment that are put in place but are not yet widely adopted.
+A few incredible initiatives are &lt;a href=&quot;https://sfdora.org/&quot;&gt;DORA&lt;/a&gt;, UK’s &lt;a href=&quot;https://www.ref.ac.uk/&quot;&gt;Research Excellence Framework&lt;/a&gt;, the newly established &lt;a href=&quot;https://hidden-ref.org/&quot;&gt;HiddenREF&lt;/a&gt; that aims to recognize hidden labour, &lt;a href=&quot;https://casrai.org/credit/&quot;&gt;CRediT Taxonomy&lt;/a&gt;, &lt;a href=&quot;https://joss.theoj.org/&quot;&gt;JOSS for publishing software&lt;/a&gt; and &lt;a href=&quot;https://chaoss.community/metrics/&quot;&gt;CHAOSS metrics&lt;/a&gt; that also takes into non-conventional metrics such as diversity and inclusion into account.&lt;/p&gt;
+
+&lt;p&gt;When adopting a metric system for research assessment, we should involve all stakeholders of research in identifying what kinds of recognition are meaningful for them and where in the chosen system necessary changes can be introduced to ensure that it will fairly incentivise everyone’s work and make them feel supported while promoting healthy research culture.
+For every project, we need to define what ‘incentives’ are valued, who are they designed for, who are involved in designing them and in what ways this will make their experience in the academic system rewarding.
+Answers to these questions will vary from project to project and hence, we should understand, accept, promote and celebrate diverse ways different contributions are recognised.&lt;/p&gt;
+
+&lt;h2 id=&quot;examples-from-my-work&quot;&gt;Examples from my work&lt;/h2&gt;
+
+&lt;p&gt;To explore this, I would like to give examples of two independent Open Source projects that I work on: &lt;em&gt;The Turing Way&lt;/em&gt; and the Open Life Science.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&quot;https://the-turing-way.netlify.app/welcome&quot;&gt;The Turing Way&lt;/a&gt;: Online community-led book project on Data Science.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Let me start by listing the visible metric of success (quantitative assessment) that we have in this project: within 2 years, we have 30 chapters and 134 subchapters co-authored and supported by over 250 contributors and read and share worldwide by 1000s of people.&lt;/p&gt;
+
+&lt;p&gt;Then we also have a qualitative assessment process in place for acknowledgement of different types of contributions, which I have listed under five aspects:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Eligibility&lt;/strong&gt;: Who is eligible to participate? Anyone interested in contributing to the project is welcome. I believe each of us has some skills that are useful for someone else, and The Turing Way aims to be a vehicle for that.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;System of acknowledgement&lt;/strong&gt;: To dismantle the traditional evaluation metric system, we promote a culture of collaboration. Opposite to individual ownership and competitive nature of academia, we promote shared ownership of the project outcome.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Recognition&lt;/strong&gt;: Often in open communities, volunteers come and invest their time, skills, and energy in developing the project.
+    &lt;ul&gt;
+      &lt;li&gt;Most open-source projects will deem the “opportunity for people to work” as a value or reward which is not tangible at all. Specifically when these contributors can not contribute anymore. Therefore we intentionally create an opportunity for people to record their contribution in a manner that is useful and valuable for them, which is highlighted in the book and is available for people to share in their CV, for example.&lt;/li&gt;
+      &lt;li&gt;Everyone who develops, not only writes, but also reviews, maintains, and mentors are named as an author of the book.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quality control&lt;/strong&gt;: We have a peer-review system for collaboration and improvement of the contributions made by our contributors.
+    &lt;ul&gt;
+      &lt;li&gt;We also support individuals by providing support, creating helpful guidelines that can streamline their work, and multiple opportunities for community-led efforts, collaboration, and engagements.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Community&lt;/strong&gt;: where we are deeply committed to providing a welcoming and safe environment and involving people from diverse backgrounds and identities.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://openlifesci.org/&quot;&gt;Open Life Science&lt;/a&gt;: 16-week long training and mentoring program.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Qualitatively, we can look at statistics from running two cohorts successfully. For example, we received 50% more proposals for the second round than the first one, we managed to receive funding to run two cohorts in 2021 and our post-cohort surveys have been overwhelmingly positive. We are grateful for the support from an incredible community of open science leaders who are willing to support the next generation of open practitioners.&lt;/p&gt;
+
+&lt;p&gt;Using the same 5 aspects for quantitative assessment in this project, we can state the following:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Eligibility&lt;/strong&gt;: We involve folks who have a research idea and they want to lead it in their communities.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;System of acknowledgement&lt;/strong&gt;: We want to democratize leadership skills for a free or low cost so that it is widely accessible for everyone and not just those who have resources and mean to acquire those skills.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Recognition&lt;/strong&gt;: We offer a global platform for our members, both for the project leads or mentees to create and highlight their work, and for mentors to get recognition for their inspiring work in the open science communities.
+    &lt;ul&gt;
+      &lt;li&gt;Of course, visibility without fair compensation is not enough, therefore we are in the process of establishing an honorarium system for all our members.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quality control&lt;/strong&gt;: The quality assessment depends on the commitment and not by the extent someone has developed their projects. There is also peer-networking, mentor guidance, check-ins and certification at the end of each cohort.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Community&lt;/strong&gt;: we aim to connect a community of community builders who are empowered to design inclusive, not only open, research projects.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Here I provided two independent systems that have evolved to recognise people for different roles that have emerged separately in these projects.
+I want to make it clear that we can not and should not standardize the way we recognise labour (visible or invisible) across different research domains and open source communities.
+There is no silver bullet or a system that can equitably recognise diverse roles and contributions that emerge independently and sporadically in all projects.&lt;/p&gt;
+
+&lt;h2 id=&quot;closing-remark&quot;&gt;Closing remark&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://zenodo.org/api/iiif/v2/e4125eaf-b456-4097-85fc-6a2e80482d1c:bee92cdd-41fa-4553-b30e-c8b937c4fc49:1728_TURI_Book%20sprint_26%20culture%20shift_040619.jpg/full/750,/0/default.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;“Time for a Culture Shift”, The Turing Way Community, &amp;amp; Scriberia. (2019, July 11). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3332808&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We have been hearing this for a long time that it’s time for a culture change.
+The culture change can not truly happen if we fail to recognise less traditional research contributions. 
+By thoughtfully and collaboratively setting-up multiple pathways for recognising all kinds of work in our projects, we will ensure that we do not promote a system that disproportionately undermines important work carried out by different members, especially those who have been previously and continuously left behind.
+By incentivising collaboration and welcoming the diversity of ideas, we can move away from the competitive and individualistic nature of academic evaluation.&lt;/p&gt;
+
+&lt;p&gt;With that, I would like to acknowledge my colleagues and community members from &lt;em&gt;The Turing Way&lt;/em&gt;, especially Kirstie Whitaker and Open Life Science, particularly Yo Yehudi, Berenice Batut and our volunteer members. 
+All our resources are available under cc-by 4.0, and you are welcome to join and help us improve how we recognize visible and invisible labour in science.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Cover image by &lt;a href=&quot;https://unsplash.com/photos/-rF4kuvgHhU&quot;&gt;@sam_truong&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com&quot;&gt;Unsplash&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 02 Sep 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blogs/dora-panel-open-science/</link>
+        <guid isPermaLink="true">http://localhost:4000/blogs/dora-panel-open-science/</guid>
+        
+        
+        <category>Community</category>
+        
+        <category>Speakerdeck</category>
+        
+        <category>Assessment</category>
+        
+        <category>DORA</category>
+        
+      </item>
+    
+      <item>
+        <title>How to be a pessimistic organiser for successful events?</title>
+        <description>&lt;p&gt;&lt;em&gt;This post was originally written for the &lt;a href=&quot;https://software.ac.uk/blog/2019-09-02-how-be-pessimistic-organiser-successful-events&quot;&gt;Software Sustainability Institute’s blog series&lt;/a&gt;. More blogs from me on SSI page can be seen &lt;a href=&quot;https://www.software.ac.uk/author/malvika-sharan&quot;&gt;here&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Let me start by saying that I am a positive person (generally speaking!). If you tell me about a disaster, I will try to find something positive in it. Having made that disclaimer, I can now safely say that I am a bit pessimistic too. Therefore, no matter how positive I am about my training and outreach events as a community manager, I am ready to fight the disaster that hasn’t occurred yet.&lt;/p&gt;
+
+&lt;p&gt;I have organised a number of events ranging from formal conferences, semi-formal training courses, to informal social meetings. In the last three years, I have become very comfortable with the kind of work that goes into organising such events. I have also become quite aware of the fact that my events will face unexpected threats even though I have planned everything well. This is where I want to use the term “pessimistic organiser”: someone who organises an event assuming that some disasters may appear.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.software.ac.uk/sites/default/files/image1_29.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Important aspect of planning an event, DOI: 10.5281/zenodo.3368395&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the first tasks in my current job, while I was still recovering from my PhD life, was to host a week-long bioinformatics workshop for a group of 40 people that included new pre-docs and senior researchers from a European PhD training network. I had never organised any international event before, and this was the first project where I had a chance to lead and execute an event as the main organiser. This included designing and delivering the protein informatics workshop, organising travel and accommodation of everyone, handling the budget, choosing and booking locations for all the events, hosting an official dinner, finalising menus, coordinating with all the members and trainers involved, and everything in between. To my surprise, starting from the day that everyone arrived until everyone left, this event faced a number of challenging surprises. Did I expect them? No! I wasn’t a pessimistic organiser yet.&lt;/p&gt;
+
+&lt;p&gt;I had no contingency plan for what I would do if something went wrong. I was only excited about ticking the boxes on my task list and didn’t take unexpected threats into account. Things did go wrong. For example, a new student showed up without a registration, a senior researcher decided to not show up on the first day that led to automatic cancellation of their hotel booking, one department was on vacation on the day they were supposed to host a tour to their facility, and the committee meeting went on one hour longer than scheduled and I wasn’t sure if I had the authority to interrupt them. These were exceptional situations that I couldn’t have predicted. However, I could have worked on my risk-management plan to already think of the challenges and put some possible solutions in place.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.software.ac.uk/sites/default/files/image4_8.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Prioritising tasks and risks to address (green tick mark) and monitor (magnifying glass) before, during, and after an event, DOI: 10.5281/zenodo.3368395&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;So… that was exciting, and it was a great learning experience too. Instead of making a big deal about any of these, my supervisor &lt;a href=&quot;https://www.embl.de/research/units/scb/gibson/members/index.php?s_personId=CP-60003209&quot;&gt;Toby Gibson&lt;/a&gt; told me to always remember that “things will go wrong, and that is alright”, and he was right. These minor challenges did not affect the overall success of the event.&lt;/p&gt;
+
+&lt;p&gt;I have come a long way since then. In the last year alone, I have chaired three international scientific conferences. I have organised and taught in a number of workshops, and have hosted various informal and formal outreach event series. Many of these events faced logistical problems (no show, low budget, and high demand), technical problems (no internet, lost packages, unsuitable venue, and projector failure) and natural disasters such as flood (Rome, Nov 2018) and earthquake (La Plata, Dec 2018). In the process of organising these, I have identified the important aspects of planning a scientific event. Furthermore, I have also created comprehensive lists of responsibilities that appear in the different stages of event organisation, risk assessment, task prioritisation, and risk mitigation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.software.ac.uk/sites/default/files/image3_11.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Adapted from an Illustration from Barron &amp;amp; Barron Project Management for Scientists and Engineers.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Few of my top tips for planning an event as a pessimistic organiser are the following:&lt;/p&gt;
+
+&lt;p&gt;Involve the different stakeholders from the beginning while maintaining clear communication, setting the right expectations, developing strategies and sticking to a defined timeline. 
+Store all information including policies, checklists, meeting minutes, and delegated tasks in a common (possibly shared) location. 
+Transfer risks to the experts or external vendors for high-profile events (AV setup, budget, catering, transportation, etc.). 
+Document past events. Our history can help us identify the possible challenges and their solutions, and reveal triggers for specific risks that may have appeared before.&lt;/p&gt;
+
+&lt;p&gt;A complete note on this topic and a related presentation are available online under the title Risk Management for your (scientific) events (&lt;a href=&quot;https://zenodo.org/record/3368395&quot;&gt;DOI: 10.5281/zenodo.3368395&lt;/a&gt;) and the Creative Commons Attribution 4.0 International License. You are welcome to use this resource in your own workflow and provide your feedback to further improve it.&lt;/p&gt;
+
+&lt;p&gt;If I may ignore the topic of this post for a moment and point to a single aspect of creating a successful event, it won’t be pessimism. It would be ‘designing’ a welcoming and inclusive environment consciously while valuing everyone’s time and participation. If we can take care of this one thing, nobody will care about the minor glitches that are bound to occur (and often can be solved with good coffees and cakes!).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Photo by &lt;a href=&quot;https://unsplash.com/photos/GpOpP4YPu30&quot;&gt;mparente&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Sep 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blogs/event-risk-management/</link>
+        <guid isPermaLink="true">http://localhost:4000/blogs/event-risk-management/</guid>
+        
+        
+        <category>Community</category>
+        
+        <category>managers</category>
+        
+        <category>Tips</category>
+        
+      </item>
+    
+      <item>
+        <title>5 tips to promote ‘water cooler effects’ at informal discussion sessions</title>
+        <description>&lt;p&gt;&lt;em&gt;Written as a part of her participation at &lt;a href=&quot;https://www.open-bio.org/events/bosc/&quot;&gt;Bioinformatics Open Source Conference 2019&lt;/a&gt; 
+supported by the &lt;a href=&quot;https://www.open-bio.org/&quot;&gt;Open Bionformatics Foundation (OBF)&lt;/a&gt; sponsors a Travel Fellowship program fellowship, 
+this post first appeared on the Open Bionformatics Foundation (OBF) website.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The phrase ‘water cooler effect’ is derived from informal gatherings and connections made around water coolers (or vending machines these days!) at the workplace or other formal situations. Such unplanned encounters lead to genuine connections between people resulting in meaningful and productive collaborations. Many research organizations value the importance of such serendipitous interactions, and actively promote them in their work-culture. Conference organizers also recognize its effectiveness and design their program with longer coffee breaks, dedicated slots for informal discussions and designated venues for breakout sessions.&lt;/p&gt;
+
+&lt;p&gt;Since 2000, the Bioinformatics Open Source Conference (BOSC) has been bringing together bioinformaticians and computational researchers interested in Open Science, to provide opportunities for them to discuss their projects, exchange ideas, learn about the latest practices in bioinformatics, and collaborate with each other. These meetings are attended by participants with different backgrounds, which provides them with a unique environment to gain multiple perspectives into different technical and social issues within the bioinformatics community. To facilitate informal interactions that promote the water cooler effects, attendees are encouraged to lead or take part in the participant-driven discussion sessions called Birds of a feather (BoF) on topics of interest to them. Since these sessions are very short, session facilitators try to encourage interactions between the participants, while making effective use of the allocated time, welcoming different viewpoints, and finishing the session with some defined outcome or future directions.&lt;/p&gt;
+
+&lt;p&gt;I attended my first BoF on the topic of “Unseminar” at the BOSC 2013, where I first met Aidan Budd who was leading this session. Aidan chose the World Cafe method to facilitate this session, where participants could form smaller groups to discuss related topics and switch groups to join different discussions. This informal setting was quite different from the usual speaker-centric format of conferences because it was participant-driven. Everyone immediately felt welcome and included in this session because the emphasis was on learning about the topic at hand together as a group. For a fresh grad student like me, this was a very special experience because I could truly co-exist as a scientist with people of varying levels of experience without feeling like an imposter or someone who didn’t belong there. This discussion didn’t end with the session itself, but catalyzed a much longer discussion after the conference over emails and shared documents, which finally led to a crowdsourced publication on “Ten Simple Rules for Organizing an Unconference”, several long-lasting collaborations among the participants, and Aidan became my mentor and a close friend.&lt;/p&gt;
+
+&lt;p&gt;As a community manager, informal discussion sessions are hands-down my favourite way to connect with others, promote collaborations between the existing members of the community and welcome new members while encouraging active participation from them. Since my first encounter with BoFs, I have participated in and led several discussion sessions. In particular, I facilitated one BoF session at BOSC 2017 in Prague, and one session this year in Basel during my participation at BOSC 2019, which was supported by the OBF fellowship, granted to me in December 2018 application round.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Thank you for joining us in our &lt;a href=&quot;https://twitter.com/hashtag/ISMBECCB2019&quot;&gt;#ISMBECCB2019&lt;/a&gt; off on ‘actionable ways to improve diversity in our community’ &amp;amp; what we can do at &lt;a href=&quot;https://twitter.com/hashtag/ismb&quot;&gt;#ismb&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;I made everyone talk a lot making it hard for us to live tweet 😅 So sharing my slides. Get in touch to contribute!&lt;a href=&quot;https://t.co/FPlqtPFpbg&quot;&gt;https://t.co/FPlqtPFpbg&lt;/a&gt;&lt;/p&gt;&amp;mdash; Malvika Sharan (@MalvikaSharan) &lt;a href=&quot;https://twitter.com/MalvikaSharan/status/1154006505584254976&quot;&gt;July 24, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Here are my &lt;strong&gt;top 5 tips for facilitating BoFs&lt;/strong&gt; or similar discussion sessions that promote the informal and unplanned aspects of the water cooler effect.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-set-the-ground-rules&quot;&gt;1. Set the ground rules&lt;/h3&gt;
+
+&lt;p&gt;Start your session by welcoming everyone and highlighting the main points of your organization’s/conference’s Code of Conduct. By choosing an inclusive discussion format (see this post &lt;a href=&quot;https://acrl.ala.org/IS/is-committees-2/committees-task-forces/discussion-group-steering/possible-discussion-format-options/&quot;&gt;by The Instruction Section&lt;/a&gt;, ACRL for ideas) we can provide a platform for our attendees to participate equitably. It is also useful to introduce a few simple tips for effective discussions, for example, by inviting volunteers to take different roles such as notetaker, timekeeper, or chair in different groups to ensure that everyone’s voice is heard and noted (see this &lt;a href=&quot;https://files.adainitiative.org/wiki_binaries/role_cards.pdf&quot;&gt;role card by Ada Initiative&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h3 id=&quot;2-get-everyone-on-the-same-page&quot;&gt;2. Get everyone on the same page&lt;/h3&gt;
+
+&lt;p&gt;State the objective of your sessions clearly so that your participants know what to expect. You shouldn’t assume that participants will know the specific details essential to discuss the topic (we can always ask!), therefore, you can take the first few minutes to briefly introduce the topic and the main terminologies. It’s important to clarify what they will and will not discuss in your session.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-manage-your-time-effectively&quot;&gt;3. Manage your time effectively&lt;/h3&gt;
+
+&lt;p&gt;Be thoughtful and appreciative of people’s time that they invest in your sessions. Conferences can be stressful. Listening to talks, taking down notes, and getting introduced to new topics while coping with the busy schedule, new venues, and jet-lag can be both mentally and physically exhausting. Therefore informal sessions should not demand too much effort from our attendees and should allow them to decompress. To make everyone’s time count, you can share a clear agenda and divide your session into short rounds. When a session is attended by a large number of participants, it’s more effective to split them into smaller groups where they can discuss different aspects of the given topic. We should also encourage people to switch groups to maximize their chances for personal interactions. As facilitators, we should minimize our own contribution but shouldn’t hesitate to bring the focus back to the topic when the discussions derail.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-make-it-truly-collaborative&quot;&gt;4. Make it truly collaborative&lt;/h3&gt;
+
+&lt;p&gt;Short sessions are great for brainstorming and generating new ideas. To ensure that these ideas don’t get lost after the session is over, there should be possibilities for your participants to collaboratively explore the topic and take notes. Each group can be provided with pens, sticky notes, flip charts, and/or whiteboards to facilitate note-taking or drawing concept maps. Online documents such as Etherpad, google docs and GitHub are generally used for sharing details of the sessions, offering a place for everyone to exchange their contact information, store their notes, add questions, and refer back to after the session is over. These online tools can be distracting if not balanced well with in-person collaborative activities (see this &lt;a href=&quot;https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/alternatives-lecturing/discussions/facilitating-effective-discussions&quot;&gt;excellent post on facilitating discussions&lt;/a&gt; by University of Waterloo). Each group discussion can be guided by a set of questions or scenarios and the chair of each group can be asked to share the outcome of their discussion with everyone.&lt;/p&gt;
+
+&lt;h3 id=&quot;5-communicate-your-next-steps&quot;&gt;5. Communicate your next steps&lt;/h3&gt;
+
+&lt;p&gt;Even though these events are short, it’s always useful to use a few minutes towards the end of the sessions to bring the entire group together to invite final thoughts and possible directions for the discussed topic and ideas. You can set a few channels of communication that the attendees can use in order to connect with each other and continue the discussion afterward. Since we want to be mindful of the contributions made by our participants, it’s important to let them know where and how the outcome of their discussions will be used, how they can reuse the material, and where they can access them in the future. After the conference, a summary of the session in a collaborative document and further details can be shared with a “Thank You” email.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://images.unsplash.com/photo-1563461661026-49631dd5d68e?ixlib=rb-1.2.1&amp;amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1650&amp;amp;q=80&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Image &lt;a href=&quot;https://unsplash.com/photos/5H0p6JPUHbI&quot;&gt;on Unsplash by @productschool&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;To conclude, informal discussion sessions are useful for collecting ideas, gaining perspectives, and engaging with others over informal conversations on topics of mutual interests. With a little pre-planning, these meetings can turn an idea discussed over coffee or by the water coolers into useful community-driven projects. I hope you find these tips useful and take advantage of this format at the next BOSC or in your community events.&lt;/p&gt;
+
+&lt;p&gt;Do let me know on twitter (&lt;a href=&quot;https://twitter.com/MalvikaSharan&quot;&gt;@malvikasharan&lt;/a&gt;) which of your favourite tips are missing in the post.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Cover photo on Unsplash by &lt;a href=&quot;https://unsplash.com/photos/QiIxg_q2vh0&quot;&gt;@zainulyasni6118&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Aug 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blogs/water-cooler-effects/</link>
+        <guid isPermaLink="true">http://localhost:4000/blogs/water-cooler-effects/</guid>
+        
+        
+        <category>Community</category>
+        
+        <category>managers</category>
+        
+        <category>Tips</category>
+        
+      </item>
+    
+      <item>
+        <title>A Friendly Letter to Community Managers</title>
+        <description>&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;I gave a 2-min lightning talk on &amp;quot;Why being &amp;#39;less-specialised&amp;#39; is an important skill for the &lt;a href=&quot;https://twitter.com/hashtag/Community?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#Community&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/managers?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#managers&lt;/a&gt;&amp;quot; at &lt;a href=&quot;https://twitter.com/hashtag/ccmcr2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#ccmcr2019&lt;/a&gt; at &lt;a href=&quot;https://twitter.com/SoftwareSaved?ref_src=twsrc%5Etfw&quot;&gt;@SoftwareSaved&lt;/a&gt;. Since many of you related to my monologue, I posted my friendly letter to the community managers online! 💌&lt;a href=&quot;https://t.co/uDK1fRtX2y&quot;&gt;https://t.co/uDK1fRtX2y&lt;/a&gt;&lt;/p&gt;&amp;mdash; Malvika Sharan (@MalvikaSharan) &lt;a href=&quot;https://twitter.com/MalvikaSharan/status/1167045046027337728?ref_src=twsrc%5Etfw&quot;&gt;August 29, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;em&gt;I recently gave a lightning talk on the topic “Why being ‘less specialised’ is an important skill for the community managers” at the CarpentryConnect Manchester on 25 June 2019. The post was originally written for the &lt;a href=&quot;https://grp-bio-it.embl-community.io/blog/posts/2019-07-10-light_talk_ccmcr2019/&quot;&gt;Bio-IT Blog page&lt;/a&gt;, which was cross-posted on &lt;a href=&quot;https://www.software.ac.uk/blog/2019-09-05-friendly-letter-community-managers&quot;&gt;SSI blog page&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Dear Community Managers,&lt;/p&gt;
+
+&lt;p&gt;Have you been working on multiple projects with multiple groups of people? Have you ever (or every day) felt like that you are not specialised enough? Then these next 90 seconds are for you (because I just lost 30 seconds introducing myself).&lt;/p&gt;
+
+&lt;p&gt;You may think that you are less specialised than many in your community, but that’s mostly because you know too many people of specific expertise. Remember? your job comes with the responsibility of getting to know your community members.&lt;/p&gt;
+
+&lt;p&gt;You understand the work and needs of people in different departments, connect them with each other, and improve interoperability within your community.&lt;/p&gt;
+
+&lt;p&gt;You develop and maintain projects that are beneficial for your members. You create an inclusive space for the new and existing members to contribute to these projects. You value their time and effort and acknowledge them for their work.&lt;/p&gt;
+
+&lt;p&gt;You teach the same subject, over and over, to new learners, without finding that boring. And when you know that someone in your community needs training in a new skill, you learn those skills and bring that piece of new information for your members to learn.&lt;/p&gt;
+
+&lt;p&gt;You support your members in their work by offering your time, and often that means that your calendar is filled with meetings of sorts. Such involvement gives you clarity on how different resources, practices, knowledge, training, and social interactions impact different projects.&lt;/p&gt;
+
+&lt;p&gt;As a curious individual, you may have many specialties which we won’t explore today (because I am running short of time), but as a community manager, your specialty is to combine multiple skills rather than achieving specialisation in one single skill.&lt;/p&gt;
+
+&lt;p&gt;So, if you are listening to this, and if you need to hear this - your work makes a difference - (sometimes just a little bit, like a missing colon symbol in the code of your learner).&lt;/p&gt;
+
+&lt;p&gt;Love,&lt;/p&gt;
+
+&lt;p&gt;Your Fellow Community Manager&lt;/p&gt;
+
+&lt;p&gt;Malvika&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 Jul 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blogs/letter-to-community-managers/</link>
+        <guid isPermaLink="true">http://localhost:4000/blogs/letter-to-community-managers/</guid>
+        
+        
+        <category>Community</category>
+        
+        <category>managers</category>
+        
+      </item>
+    
+      <item>
+        <title>Digital Storytelling for Culture Change in Community</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;“Stories matter. Many stories matter. Stories have been used to dispossess and to malign, but stories can also be used to empower and to humanize. Stories can break the dignity of a people, but stories can also repair that broken dignity.”  - &lt;a href=&quot;https://twitter.com/ChimamandaReal&quot;&gt;Chimamanda Ngozi Adichie&lt;/a&gt;, &lt;a href=&quot;https://ngl.cengage.com/21centuryreading/resources/sites/default/files/B3_TG_AT7_0.pdf&quot;&gt;The Danger of a Single Story&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;This post is the case study from my participation at the &lt;a href=&quot;https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/round-7/participants/participants---cohort-f/&quot;&gt;Mozilla Open Leaders Cohort 7&lt;/a&gt; from January-May 2019.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;project-background&quot;&gt;Project background&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Digital storytelling&lt;/strong&gt; is a tool that allows people to share certain aspects of their personal stories. The digital equivalent of traditional storytelling can include any electronic (non-physical) media such as posts, audio, motion videos or stills that help individuals to &lt;strong&gt;tell their story or present an idea&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;[Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Digital_storytelling&quot;&gt;Digital Storytelling&lt;/a&gt;, also see: &lt;a href=&quot;https://en.wikipedia.org/wiki/Web_2.0&quot;&gt;Web 2.0&lt;/a&gt;]&lt;/p&gt;
+
+&lt;h3 id=&quot;improving-culture&quot;&gt;Improving culture&lt;/h3&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://bio-it.embl.de/&quot;&gt;Bio-IT community&lt;/a&gt; blog infrastructure aims to create space for the diverse members of the STEM community to highlight their personal stories, scientific work, insights, and open dialogues in the form of blog posts and interviews. &lt;strong&gt;Everyone has a unique story to share&lt;/strong&gt;. When combined with academic expertise, passion, motivation, social background, and personal struggles, these stories create authentic connections. With the tool of Digital Storytelling, I want to &lt;strong&gt;create relatable contents by involving as many voices as possible, especially of those who are currently underrepresented in my community&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;motivation&quot;&gt;Motivation&lt;/h3&gt;
+
+&lt;p&gt;The members of informatics communities that I engage with come from diverse backgrounds and identities, and they share different academic and research interests. They participate in the community as informatics learners, trainers, educators, resource-developers, problem-solvers, decision-makers, knowledge-sharers, supporters and occasional visitors. A large proportion of this community is life scientists and novice bioinformaticians, who make an important part of our learner’s community, but often don’t know how they can contribute beyond their participation at our training events. In contrary, our members who are the technical experts and core developers are more motivated to contribute to decision making and development of community projects. &lt;strong&gt;There is a clear divide between learners and active contributors&lt;/strong&gt;. In addition, many members who are currently missing or not actively participating in the community are women and members of other historically underrepresented groups.&lt;/p&gt;
+
+&lt;p&gt;With this project, I wanted to actively and consciously involve as many diverse members as possible to gain their perspectives and share their stories. I chose &lt;strong&gt;digital storytelling as a tool to enhance visibility of our members and improve their engagement within the community&lt;/strong&gt; by identifying low barrier opportunities for their participation.&lt;/p&gt;
+
+&lt;h3 id=&quot;about-me-and-my-work&quot;&gt;About me and my work&lt;/h3&gt;
+
+&lt;p&gt;I am a Community Outreach Coordinator at the &lt;a href=&quot;https://www.embl.org/&quot;&gt;EMBL Heidelberg&lt;/a&gt;. I manage outreach and community engagement plans for the Bio-IT project to develop and foster a community of EMBL researchers interested in computational techniques. Bio-IT is a community initiative, which aims to build, support, and promote computational biology activity at European Molecular Biology Laboratory (EMBL), Heidelberg. Bio-IT community members are scientists who share a varying level of interests and expertise in bioinformatics and help each other by sharing their skills, experience, and tools with others. This project is a platform for skill development and knowledge exchange with an aim to build a sustainable and highly collaborative community of bioinformatics users in EMBL and beyond. My Mozilla project is built around my work in the Bio-IT, but is not limited to the members of Bio-IT.&lt;/p&gt;
+
+&lt;h3 id=&quot;my-ol7-culture-track-story&quot;&gt;My OL7 culture track story&lt;/h3&gt;
+
+&lt;p&gt;After OL6 many of my colleagues who had participated in the Mozilla Open Leaders shared their personal experiences on Twitter (tweet from &lt;a href=&quot;https://twitter.com/i/web/status/1061277699946303488&quot;&gt;Berenice Batut&lt;/a&gt;) and how much they had benefited from their participation. After reading their testimonials and the checking the complete program, I knew that I would gain tremendously by participating in OL7.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why culture track&lt;/strong&gt;: I wanted to &lt;strong&gt;learn the theories and practices in community building&lt;/strong&gt;, therefore culture track seemed to be a best fit. I come from research background and I don’t have any formal training in community management, which is a huge part of my job.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Expectation&lt;/strong&gt;: I expected to gain the formal understanding of &lt;strong&gt;how to develop effective strategies for an Open Community&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Goal&lt;/strong&gt;: The main goal I set for myself was to identify ways to &lt;strong&gt;engage with the members of my community.&lt;/strong&gt; My specific aim is to create opportunities for those who are currently underrepresented in my community.&lt;/p&gt;
+
+&lt;h2 id=&quot;key-understanding-and-accomplishments&quot;&gt;Key understanding and accomplishments&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“Open Leadership in open communities is often about taking the back seat, creating space for the community members to be heard, to collectively make decisions, and to shape a culture that is nurturing for them.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;The main goal for this project was to improve representation of those who are currently underrepresented in the community.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The initial steps were to understand the &lt;strong&gt;specific community goals that could be achieved&lt;/strong&gt; with my Mozilla OL project, who will be affected/impacted by this, what &lt;strong&gt;resources are available&lt;/strong&gt; to support these goals, and what &lt;strong&gt;additional resources can be developed&lt;/strong&gt; or adapted in the project to &lt;strong&gt;ensure its sustainability&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The study plan of the OL7 culture track, complemented with the personal discussion with my mentor allowed me to set my vision and mission, personal and professional goals, and project roadmaps in the first few weeks. With my participation in the Mozilla OL, I gained useful insight into my community that were sparked by the “compare and contrast” assignments. They helped me tremendously to draw important insights into the strengths and weaknesses of my community.&lt;/p&gt;
+
+&lt;p&gt;The following elements have helped me in accomplishing my open leadership and open culture goals towards involving diverse voices in my work:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;📈 &lt;a href=&quot;https://grp-bio-it.embl-community.io/blog/posts/2019-02-17-bio-it-community-survey/&quot;&gt;Community Assessment Survey&lt;/a&gt; (started in February, need to give a final push)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This survey is being conducted to support the ongoing work in Bio-IT towards developing equitable strategies by identifying needs of the individual members for training, consulting and other bioinformatics resources. The data collected in this survey will be useful in identifying member groups who are currently underrepresented and what support is needed to engage with them. This survey helped us see the impact of our training and social activities organized for our members on a regular basis. It also allowed our respondents point out the exact bioinformatics needs from the community.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;👯‍♀🏳‍🌈 &lt;a href=&quot;https://grp-bio-it.embl-community.io/blog/posts/2019-03-10-iwd-2019/&quot;&gt;International Women’s day: ‘TheyForShe’ Networking and Skill-Building Event&lt;/a&gt; (local effort)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;On 8 March 2019, with the support from the members of Bio-IT, Staff Association, Equality and Diversity Committee and LGBTQ+ committee at EMBL Heidelberg, I co-organised a skill-building and networking event under the title “International Women’s day: ‘TheyForShe’ Networking and Skill-Building Event“. With this event, in addition to expressing our gratitude towards the women researchers and colleagues, I created a platform to involve ‘non-bioinformatic participants’ who are  generally missing from our community. This event was attended by ~70 participants from both scientific and non-scientific domains at EMBL. From a number of short skill-building and networking session, participants could select which session they wanted to attend, without affecting their normal workday schedule.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;📭Launching of the the &lt;a href=&quot;https://grp-bio-it.embl-community.io/blog/posts/2019-02-16-bio-it-community-blog/&quot;&gt;Community Blog Platform&lt;/a&gt; (digital effort)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;As a main component for the Digital Storytelling, I launched the Bio-IT Community Blog Platform, inviting contributions from our community members. The content development for this platform will take place during the Mozilla sprint. I have already reached out to a number of members, with a special focus on the members of underrepresented groups. We will start documenting their stories in coming weeks.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;😇Recruited 2 volunteers to contribute and potentially lead this project in future&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These members are biologist, novice bioinformaticians, and women who haven’t engaged with the community beside attending training courses. 🎉🥳&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“Open culture allows decolonization of knowledge.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;next-steps&quot;&gt;Next steps&lt;/h3&gt;
+
+&lt;p&gt;My immediate next step is to &lt;strong&gt;participate in the Mozilla Sprint in order to collect and publish useful content and stories of our community members&lt;/strong&gt;. notably, these stories  will help me identify who is currently missing (or are underrepresented) in my community, and what resources and opportunities will create more engagement from them. It will be crucial to reflect on equitable strategies in the community by personal interactions or alternative ways to gather such information. All these will enhance our understanding of values and rewards that every member can gain from the community, and improve our policies/guidelines that will facilitate their participation.&lt;/p&gt;
+
+&lt;p&gt;Other tasks directly related to my Mozilla OL7 project that will still keep me involved for next months:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;📊Conclude community assessment survey&lt;/li&gt;
+  &lt;li&gt;📝Finalize the Code of conduct (under development)&lt;/li&gt;
+  &lt;li&gt;🤝Collect stories from the wider community including the OL7 cohort&lt;/li&gt;
+  &lt;li&gt;⏳Create momentum and get more people coordinate this project&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;staying-connected&quot;&gt;Staying connected&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;🏃‍♀Using Mozilla Sprint as an opportunity to get in touch with Open Leaders and share their stories in my project&lt;/li&gt;
+  &lt;li&gt;💃🏽Attend a MozFest and hangout with all the amazing people in person from open ecosystem&lt;/li&gt;
+  &lt;li&gt;👩🏽‍🎓Possibly apply to the Mozilla Fellowship/grant in future&lt;/li&gt;
+  &lt;li&gt;🌱Give back to the community and future Open Leaders&lt;/li&gt;
+  &lt;li&gt;✋🏽And stay connected with Mozillians!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;special-mentions&quot;&gt;Special mentions&lt;/h3&gt;
+
+&lt;p&gt;I was exposed to new information, resources, people and community that taught me a great deal about the Open Community of Practice (by default and by design). There were many gems that I picked up on the way, but two practical theories particularly stood out:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;⛰The Mountain of Engagement:🏆Shared values and reward that are beneficial for our community members&lt;/li&gt;
+  &lt;li&gt;💆‍♀Personal Ecology: 💰So valuable! (never heard of this in my entire career or community participation)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Finally, my mentor, Caleb, kindly offered (agreed!) to be the first person to be interviewed and kickstart my Mozilla Sprint Project. His interview will be posted soon.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“[Open Leadership] is not about what we can do, but about what we do to change the culture.”&lt;/em&gt; - &lt;a href=&quot;https://twitter.com/Calkibet&quot;&gt;Caleb Kipkurui&lt;/a&gt;, Mentor Mozilla OL7, Researcher/Educator in Kenya&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;acknowledgements&quot;&gt;Acknowledgements&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Chad Sansing, Meag Doherty, OL7 mentor Caleb Kipkurui and the entire &lt;a href=&quot;https://twitter.com/MozOpenLeaders&quot;&gt;Mozilla Open Leader team&lt;/a&gt; for designing, creating, maintaining, and delivering contents; sharing useful resources; inviting amazing speakers; and keeping us all motivated.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Cover image by &lt;a href=&quot;https://unsplash.com/photos/nKNrOZ5MXZY&quot;&gt;@tchompalov&lt;/a&gt; on Unsplash&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 04 May 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blogs/digital-storytelling/</link>
+        <guid isPermaLink="true">http://localhost:4000/blogs/digital-storytelling/</guid>
+        
+        
+        <category>Community</category>
+        
+        <category>managers</category>
+        
+        <category>Tips</category>
+        
+      </item>
+    
+      <item>
+        <title>Does every biased action have an effective reaction?</title>
+        <description>&lt;p&gt;&lt;em&gt;This post introduces a part of the articles summarising the survey “Support Received by Women in Research (CSG-WiS)” (details: &lt;a href=&quot;https://wiscsg.github.io/wis-csg-2018/&quot;&gt;https://wiscsg.github.io/wis-csg-2018&lt;/a&gt;). We gathered 219 responses covering a wide demographic, age, social status, research background, positions, and workplaces. For the gender aspect, statistically significant data is available to evaluate two genders: men and women. Insufficient data makes it inconclusive to state anything about other genders. 197 of our respondents are Indian nationals (including the authors), therefore a few observations might be influenced by this factor. A large proportion of our respondents are located in India and the USA, however, several participants are also nationals or residents of other parts of the Americas (Canada, Mexico, etc.), European countries (mainly from the United Kingdom, Germany, and the Czech Republic), and other Asian countries (Singapore, Bangladesh, and Sri Lanka).  Finally, although this report focuses on identifying support for women in research, recommendations listed in this article are applicable for supporting members of other marginalized groups as well.
+This report is available under a CC-BY license which can be cited as “WiS-CSG, &amp;amp; Malvika Sharan. (2019, August 12). wiscsg/wis-csg-2018: WiS-CSG Survey 2018 data and overview (Version v0.2). &lt;a href=&quot;Zenodo. http://doi.org/10.5281/zenodo.3366259&quot;&gt;Zenodo. http://doi.org/10.5281/zenodo.3366259&lt;/a&gt;”.
+All the identifiable information have been removed to maintain anonymity of the respondents.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;Bias and harassment in all forms can be very detrimental to one’s performance at work and personal well-being. Scientific organizations vastly focus on how we conduct research [1] and how we publish them [2], but sadly, bias incidents are not treated as seriously as research misconducts [3]. Policies such as Title IX [4a] and Nondiscrimination in Employment Practices in Education [4b] in the USA, POSH act 2013 in India [5] and European Commission’s gender equality law [6a] and the Employment Equality Directive [6b] aim to ensure equal opportunities and gender equality in decision making positions, closing the gender pay gap, and ending harassment. Despite such strong measures, inequality and bias exist in workplaces and beyond. The Eurobarometer survey conducted in EU countries [7] showed that their respondents exhibit discriminative behaviors based on gender, ethnicity, sexual orientation, disability, religious belief, and older age. As per Implicit Project led by Harvard’s global online research, over two-thirds of the online-test participants (men and women) are gender-biased and tend to think that men are better suited for professional careers than women, who are better as homemakers [8]. Women are often the targets of sexual harassment; people of color deal with racial bias; LGBTQ+ community experience emotional harassment; and those who belong to multiple marginalized groups such as queer women of color simultaneously experience multiple disadvantages and face more bias-related incidents. In the #metoo movement era [9], academics have also come forward to acknowledge the damages caused by gender bias, discrimination and sexual harassment [10, 11 , 12].&lt;/p&gt;
+
+&lt;p&gt;The Convention on the Elimination of All Forms of Discrimination against Women (CEDAW), adopted by UN General Assembly in 1979 [15], defines what gender discrimination is and provides agenda for action to end them. UN’s 2030 Agenda for Sustainable Development in its core includes Gender equality and the empowerment of women and girls [16]. Visible efforts are being made to identify causes and damages posed by biases, and prevent them from occurring in the future. Nonetheless, over two-thirds of bias incidents in the workplace are never reported [13, 14]. There are several reasons, which include not being aware of the policies and complaint mechanism, dealing with the situation themselves, fear of negative repercussions, the social stigma attached to victims or not perceiving offense serious enough to make formal complaints. It’s obvious that these challenges have only added to the existing burden of people from historically underrepresented groups in STEM. Specifically, women and members of other marginalized groups have long been struggling to find secure positions in science, therefore, organizations must identify the equitable system to create a more welcoming, respectful and diverse workplace for everyone.&lt;/p&gt;
+
+&lt;p&gt;In the article, &lt;a href=&quot;https://wiscsg.github.io/wis-csg-2018/posts/part-3-biased-action-effective-reaction.html&quot;&gt;Does every biased action have an effective reaction?&lt;/a&gt;, we assessed responses and actions against bias and other forms of harassment (sexual, mental, emotional etc.), indicated as ‘bias incidents’, experienced or witnessed by researchers at their workplaces. We also assess the outcome of reporting such incidents, challenges associated with them and further recommendations to address them.&lt;/p&gt;
+
+&lt;p&gt;Our survey shows that over half the incidents experienced by people never get reported perpetuating risks of unresponded misconducts. People who are familiar with reporting mechanisms at their organization, tend to report more incidents knowing that they have appropriate support and policies in place. These mechanisms include effective evidence-based diversity policies and designated members/committees who uphold those policies. Designated members help creating safer space for people by establishing a code of conduct [19], and reporting and investigation guidelines to deal with bias incidents [20]. They can also provide a common platform for people to gain information on their rights and support system. Ombudsperson or trusted members who are listed as visible points of contact, improve chances for people to report bias incidents as people can reach out to them directly for support in difficult situations [21]. Organizations can also hire services for professional evaluation and assessment of workplace to understand how inclusive their policies are, and where they can receive recommendations for improvements (such as Stonewall [22] and Athena Swan [23]). Studies have shown that anti-harassment training and education program contributes to positive skill development of people with a special focus on advancing women and members of other marginalized groups [24]. These training can be given on a range of topics such as coaching, mentoring, ally-skills, conflict management, case reporting/handling, and implicit and unconscious bias. People at leadership positions should educate their teams about how to handle conflict and accept criticism when they exhibit an unconscious bias towards their colleagues. They can share professional contacts of individuals, mentors or communities who their group members can reach out to for support. Supervisors must establish specific resources for their students to help them handle situations of bias and outcomes of those situations.&lt;/p&gt;
+
+&lt;p&gt;It’s not only up to organizations and authorities, but we should also take responsibility to educate ourselves [25] about our rights and identify resources to help answer questions such as:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;what is considered a violation of the code of conduct?&lt;/li&gt;
+  &lt;li&gt;what can we do when we experience or witness harassment and bias incidents?&lt;/li&gt;
+  &lt;li&gt;what is the reporting mechanism and guideline in the workplace?&lt;/li&gt;
+  &lt;li&gt;what kind of support is available and what policies are in place against harassment?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;At an individual level, we should make it our duty to speak up whenever unfair and biased behaviors are encountered. We should consciously train ourselves to be a better ally to our colleagues by using our societal privileges to step up for others who are less advantaged [26]. We should take the opportunity to understand our own bias and inhibitions as bystanders, learn to intervene when witnessing harassment or apologize and correct ourselves when we cause offense. We should participate actively in creating safer spaces for relevant conversation, for instance by organizing/attending social awareness events and exchange useful resources with our peers. Finally, as highlighted at the personal story featured in the beginning of this article, when we don’t know how to respond to an uncomfortable or a stressful situation, we should reach out for help and support of trusted allies, advisors or mentors. We should try to document proof of misconduct, and report them to the appropriate authorities. and whenever we can, extending solidarity and support to others who might be facing difficult situations in our workplace and society.&lt;/p&gt;
+
+&lt;h2 id=&quot;concluding-remarks&quot;&gt;Concluding remarks&lt;/h2&gt;
+
+&lt;p&gt;International and national policies are established in most public and private sectors to deal with workplace bias. However, we observed that less than 25% of incidents are reported immediately and over half the cases are never reported. In our survey data, it is apparent that there is a huge gap of information on what bias is, how to respond to them and what supports are available in the workplace to deal with such situations. Any corrective or preventive measures will be ineffective if such lack of awareness at professional spaces will continue to exist. We observed that people tend to report bias incidents more when there is information exchange and established trust between people and their supervisors or administration including designated committees who can handle these issues. We also noted that even with a support system, formally reporting of bias incidents can still be an uncomfortable and daunting act. Victims of bias and harassment don’t report such incident sooner for a variety of reasons. Some of these reasons are a lower sense of support, fear of furthering sensitive issues, minimization of harm, social stigma, professional repercussions, stereotypes, unfriendly behaviors or threats towards themselves in the future. Even when people overcome their fear and discomfort, reporting bias incidents does not guarantee them any definite resolution or favorable outcome. This indicates a lack of transparency in how organizations deal with such cases by questioningly maintaining low policy standards that barely satisfy the legal requirements. This may inadvertently discourage targets and bystanders of discriminations, causing disappointments, burnout, personal challenges, and poor work performance. In addition, this should also be noted that allegations of misconduct can damage the reputation of alleged person or organization even if later proven to be unjustifiable. Therefore, organizations and individuals must maintain the confidentiality of the investigation and protection of all parties involved from retaliation. Effective measures must be taken to enforce mechanism for information dissemination, education, reporting, case-handling, investigation and prevention of misconduct to establish security, gender equity and diversity in the workplace.&lt;/p&gt;
+
+&lt;p&gt;One important lesson that underlies this report is that bias, discrimination, and harassment are worryingly common. Collective efforts and accountability at both organizational and individual level help in creating a more welcoming and safer environment for everyone in the workplace. Particularly, a diverse, inclusive and supportive culture can prevent workplace bias and empower women and members of marginalized groups in STEM by improving their chances to thrive as researchers.&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;h3 id=&quot;reports-policies-and-practices-related-to-biasharassmentmisconducts&quot;&gt;Reports, policies and practices related to bias/harassment/misconducts:&lt;/h3&gt;
+
+&lt;p&gt;[1] National Academy of Sciences (US), National Academy of Engineering (US) and Institute of Medicine (US) Panel on Scientific Responsibility and the Conduct of Research. Responsible Science: Ensuring the Integrity of the Research Process: Volume I. Washington (DC): National Academies Press (US); 1992. 4, Misconduct in Science—Incidence and Significance. &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/books/NBK234512/&quot;&gt;https://www.ncbi.nlm.nih.gov/books/NBK234512/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[2] White Paper on Publication Ethics: CSE’s White Paper on Promoting Integrity in Scientific Journal Publications; 3.2, &lt;a href=&quot;https://www.councilscienceeditors.org/resource-library/editorial-policies/white-paper-on-publication-ethics/3-2-international-models-for-responding-to-research-misconduct/&quot;&gt;International Models for Responding to Research Misconduct&lt;/a&gt;. &lt;em&gt;First published in 2006 and updated on a rolling basis since May 4, 2018.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;[3] National Academy of Sciences (US), National Academy of Engineering (US) and Institute of Medicine (US) Panel on Scientific Responsibility and the Conduct of Research. Responsible Science: Ensuring the Integrity of the Research Process: Volume I. Washington (DC): National Academies Press (US); 1992. 4,_ Misconduct in Science—Incidence and Significance_. &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/books/NBK234512&quot;&gt;https://www.ncbi.nlm.nih.gov/books/NBK234512&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[4a] Title IX is a federal civil rights law in the United States of America that was passed as part of the Education Amendments of 1972. &lt;a href=&quot;https://en.wikipedia.org/wiki/Title_IX&quot;&gt;https://en.wikipedia.org/wiki/Title_IX&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[4b] Nondiscrimination in Employment Practices in Education. Employment practices contained in Title VI of the Civil Rights Act of 1964, Title IX of the Education Amendments of 1972, and Section 504 of the Rehabilitation Act of 1973. &lt;a href=&quot;https://www2.ed.gov/about/offices/list/ocr/docs/hq53e8.html&quot;&gt;https://www2.ed.gov/about/offices/list/ocr/docs/hq53e8.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[5] &lt;a href=&quot;https://en.wikipedia.org/wiki/Sexual_Harassment_of_Women_at_Workplace_(Prevention,_Prohibition_and_Redressal)_Act,_2013&quot;&gt;The Sexual Harassment of Women in the Workplace (Prevention, Prohibition and Redressal) Act, 2013&lt;/a&gt;, is a legislative act in India that seeks to protect women from sexual harassment at their place of work.&lt;/p&gt;
+
+&lt;p&gt;[6a] Promoting equal economic independence for women and men, closing the gender pay gap, advancing gender balance in decision making, ending gender-based violence and promoting gender equality beyond the EU. &lt;a href=&quot;https://ec.europa.eu/info/policies/justice-and-fundamental-rights/gender-equality_en&quot;&gt;https://ec.europa.eu/info/policies/justice-and-fundamental-rights/gender-equality_en&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[6b] &lt;a href=&quot;http://www.europarl.europa.eu/RegData/etudes/STUD/2016/536345/EPRS_STU(2016)536345_EN.pdf&quot;&gt;Implementation of the Employment Equality Directive. The principle of non-discrimination on the basis of religion or belief&lt;/a&gt; .&lt;/p&gt;
+
+&lt;h3 id=&quot;evaluations-of-workplace-bias&quot;&gt;Evaluations of workplace bias:&lt;/h3&gt;
+
+&lt;p&gt;[7] Special Eurobarometer 437: Discrimination in the EU in 2015. &lt;a href=&quot;http://data.europa.eu/euodp/en/data/dataset/S2077_83_4_437_ENG&quot;&gt;http://data.europa.eu/euodp/en/data/dataset/S2077_83_4_437_ENG&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[8] Project Implicit is a non-profit organization and international collaboration between researchers who are interested in implicit social cognition and hidden biases, and to provide a “virtual laboratory” for collecting data on the Internet. &lt;a href=&quot;https://implicit.harvard.edu/implicit/aboutus.html&quot;&gt;https://implicit.harvard.edu/implicit/aboutus.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;sexual-harassment-in-academia-and-metoo-movement&quot;&gt;Sexual harassment in academia and #MeToo movement&lt;/h3&gt;
+
+&lt;p&gt;[9] A movement against sexual harassment and sexual assault. The movement began to spread virally in October 2017 as a hashtag on social media in an attempt to demonstrate the widespread prevalence of sexual assault and harassment, especially in the workplace. &lt;a href=&quot;https://en.wikipedia.org/wiki/Me_Too_movement&quot;&gt;https://en.wikipedia.org/wiki/Me_Too_movement&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[10] &lt;a href=&quot;https://www.sciencenews.org/article/metoo-movement-workplace-policies-science-2018-yir&quot;&gt;The #MeToo movement shook up workplace policies in science New research seeks to better understand how sexual harassment affects women&lt;/a&gt;. Kyle Plantz, Science news. December 2018.&lt;/p&gt;
+
+&lt;p&gt;[11] &lt;a href=&quot;https://www.washingtonpost.com/local/education/academias-metoo-moment-women-accuse-professors-of-sexual-misconduct/2018/05/10/474102de-2631-11e8-874b-d517e912f125_story.html?noredirect=on&amp;amp;utm_term=.d65f21c576eb&quot;&gt;Academia’s #MeToo moment: Women accuse professors of sexual misconduct&lt;/a&gt;. Nick Anderson, Washington Post. May 2018&lt;/p&gt;
+
+&lt;p&gt;[12] &lt;a href=&quot;https://www.law.upenn.edu/live/news/8395-the-me-too-movement-in-indian-academia/news/international-blog.php&quot;&gt;The “Me Too” Movement in Indian Academia&lt;/a&gt;, by Radhika Saxena LLM’19 and Human Rights Scholar. University of Pennsylvania law School.&lt;/p&gt;
+
+&lt;p&gt;[13] &lt;a href=&quot;https://www.humanrights.gov.au/sites/default/files/document/publication/SHSR_2012%20Community%20Guide%20Web%20Version%20Final.pdf&quot;&gt;Working without fear: Results of the 2012 sexual harassment national telephone survey&lt;/a&gt; , Australian Human Rights Commission 2012.&lt;/p&gt;
+
+&lt;p&gt;[14] Sexual harassment: how the genders and generations see the issue differently in the UK. Lifestyle, 2017. &lt;a href=&quot;https://yougov.co.uk/topics/lifestyle/articles-reports/2017/11/01/sexual-harassment-how-genders-and-generations-see-&quot;&gt;https://yougov.co.uk/topics/lifestyle/articles-reports/2017/11/01/sexual-harassment-how-genders-and-generations-see-&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;challenges-and-recommendations-to-deal-with-bias&quot;&gt;Challenges and recommendations to deal with bias&lt;/h3&gt;
+
+&lt;p&gt;[15] The Convention on the Elimination of All Forms of Discrimination against Women adopted by UN. &lt;a href=&quot;http://www.un.org/womenwatch/daw/cedaw/&quot;&gt;http://www.un.org/womenwatch/daw/cedaw/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[16] Transforming our world: the 2030 Agenda for Sustainable Development. &lt;a href=&quot;https://www.un.org/sustainabledevelopment/development-agenda/&quot;&gt;https://www.un.org/sustainabledevelopment/development-agenda/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[17] &lt;a href=&quot;https://www.psychologytoday.com/intl/blog/the-compassion-chronicles/201711/why-dont-victims-sexual-harassment-come-forward-sooner&quot;&gt;Why Don’t Victims of Sexual Harassment Come Forward Sooner?&lt;/a&gt; Beverly Engel, L.M.F.T., The Compassion Chronicles. Published in Psychology Today, November 2017.&lt;/p&gt;
+
+&lt;p&gt;[18] &lt;a href=&quot;https://blog.cultureamp.com/why-dont-people-report-sexual-harassment&quot;&gt;Why don’t people report sexual harassment?&lt;/a&gt; Kate Le Gallez Writer, Culture Amp.&lt;/p&gt;
+
+&lt;p&gt;[19] Deloitte Corporate Governance Services, &lt;a href=&quot;https://www2.deloitte.com/content/dam/Deloitte/il/Documents/risk/CCG/other_comittees/932__suggested_guidelines_writing_code_ethics_conduct0805.pdf&quot;&gt;Suggested Guidelines for Writing a Code of Ethics/Conduct&lt;/a&gt;. 2005, Deloitte Development LLC.&lt;/p&gt;
+
+&lt;p&gt;[20] &lt;a href=&quot;https://files.frameshiftconsulting.com/books/cocguide.pdf&quot;&gt;How to Respond to Code of Conduct Reports&lt;/a&gt;. Valerie Aurora and Mary Gardiner, 2018.&lt;/p&gt;
+
+&lt;p&gt;[21] &lt;a href=&quot;https://link.springer.com/article/10.1007/BF02583257#citeas&quot;&gt;The ombudsman for research practice&lt;/a&gt;.  Fischbach, R.L. &amp;amp; Gilbert, D.C. Sci Eng Ethics (1995) 1: 389. https://doi.org/10.1007/BF02583257&lt;/p&gt;
+
+&lt;p&gt;[22] &lt;a href=&quot;https://www.stonewall.org.uk/uk-workplace-equality-index&quot;&gt;UK Workplace Equality Index&lt;/a&gt;, Stonewall: Acceptance without exception. The definitive benchmarking tool for employers to measure their progress on lesbian, gay, bi and trans inclusion in the workplace.&lt;/p&gt;
+
+&lt;p&gt;[23] &lt;a href=&quot;https://www.ecu.ac.uk/equality-charters/athena-swan/&quot;&gt;Athena Swan&lt;/a&gt;, Recognising advancement of gender equality: representation, progression and success for all.&lt;/p&gt;
+
+&lt;p&gt;[24] &lt;a href=&quot;https://journals.sagepub.com/doi/abs/10.1177/0021886301372001#articleCitationDownloadContainer&quot;&gt;The Unexpected Effects of a Sexual Harassment Educational Program&lt;/a&gt;. Bingham, S. G., &amp;amp; Scherer, L. L. (2001). The Journal of Applied Behavioral Science, 37(2), 125–153. &lt;a href=&quot;https://doi.org/10.1177/0021886301372001&quot;&gt;https://doi.org/10.1177/0021886301372001&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[25] &lt;a href=&quot;https://www.gov.scot/publications/works-reduce-prejudice-discrimination-review-evidence/pages/5/&quot;&gt;What works to reduce prejudice and discrimination? &lt;/a&gt;- A review of the evidence. Maureen McBride, Scottish Centre for Crime and Justice Research. ISBN: 9781785447235. October 2015.&lt;/p&gt;
+
+&lt;p&gt;[26] &lt;a href=&quot;https://frameshiftconsulting.com/ally-skills-workshop/&quot;&gt;Ally Skills Workshop&lt;/a&gt; by Valerie Aurora, Frameshift Consulting. Now that we all know about bias in the workplace, what can we do to stop it? The Ally Skills Workshop teaches simple everyday ways for people to use their privilege and influence to support people who are targets of systemic oppression in their workplaces and communities.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Cover image by &lt;a href=&quot;https://unsplash.com/photos/ZoGOw9WYMtQ&quot;&gt;@celpax&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blogs/csg-wis-survey-report-part3/</link>
+        <guid isPermaLink="true">http://localhost:4000/blogs/csg-wis-survey-report-part3/</guid>
+        
+        
+        <category>Survey</category>
+        
+        <category>Women in Science</category>
+        
+        <category>Article</category>
+        
+      </item>
+    
+      <item>
+        <title>Inclusiveness in Open Science</title>
+        <description>&lt;h2 id=&quot;inclusiveness-in-open-science&quot;&gt;Inclusiveness in Open Science&lt;/h2&gt;
+
+&lt;p&gt;Science in the 21st century is becoming increasingly collaborative and open in nature. Consequently, the advancement of a research field should be measured not only by scientific output but also by the level of participation of its community members. Hence, a successful community should be able to promote equal participation from its community members independent of the factors such as geographic location, gender, ethnicity, and social background. In my talk, I will explore inclusiveness as one of the key features of the open source community and share some of the lessons learned while adopting them in my work as a community manager.&lt;/p&gt;
+
+&lt;p&gt;Here is the &lt;a href=&quot;https://speakerdeck.com/malvikasharan/inclusiveness-in-open-science&quot;&gt;Speaker Deck&lt;/a&gt; from my talk at the OpenCon Switzerland on September 21, 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Cover photo by &lt;a href=&quot;https://unsplash.com/photos/ZvNaAGYVlEc&quot;&gt;birdiesnapdragon&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 21 Sep 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blogs/inclusiveness-in-open-science/</link>
+        <guid isPermaLink="true">http://localhost:4000/blogs/inclusiveness-in-open-science/</guid>
+        
+        
+        <category>OpenStuff</category>
+        
+        <category>Speakerdeck</category>
+        
+      </item>
+    
+      <item>
+        <title>Finding your niche in science</title>
+        <description>&lt;h2 id=&quot;from-developing-software-to-building-community-in-bioinformatics&quot;&gt;From developing software to building community in bioinformatics&lt;/h2&gt;
+
+&lt;p&gt;Over the past decade, bio-computational research has advanced rapidly allowing large-scale characterization of genes, transcripts, and proteins, and resulting in a deluge of -omics data. Simultaneously, high-throughput bioinformatic approaches have been developed for the analysis of such data, identifying previously unknown molecules, their interactions, and their functions. I was first introduced to such techniques and the potential of bioinformatics in biological science during my masters at b-it in University of Bonn. This interest in the bio-computational tools, piqued during my masters and internship in Max Planck, inspired me to undertake a PhD at the University of Würzburg, leading me to my current position at EMBL Heidelberg. In my talk at the b-it lecture series, here I reflect on the last 8 years and share some of the lessons learned as a computational biologist, while trying to find my niche in science as a community manager.&lt;/p&gt;
+
+&lt;p&gt;Here is my &lt;a href=&quot;https://speakerdeck.com/malvikasharan/from-developing-software-to-building-community-in-bioinformatics-how-to-find-your-niche-in-science&quot;&gt;Speaker Deck&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Hopefully I will write it in detail in coming days.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Cover photo by &lt;a href=&quot;https://unsplash.com/photos/IMUwe-p1yqs&quot;&gt;ciabattespugnose&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Jun 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blogs/finding-your-niche-in-science/</link>
+        <guid isPermaLink="true">http://localhost:4000/blogs/finding-your-niche-in-science/</guid>
+        
+        
+        <category>Community</category>
+        
+        <category>Speakerdeck</category>
+        
+      </item>
+    
+  </channel>
+</rss>
