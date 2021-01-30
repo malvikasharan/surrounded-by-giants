@@ -2,12 +2,12 @@
 layout: post
 title:  "5 tips to promote ‘water cooler effects’ at informal discussion sessions"
 author: sharan
-categories: [ Community, managers, Tips ]
+categories: [ community, open-practices ]
 image: https://images.unsplash.com/photo-1557734864-c78b6dfef1b1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2091&q=80
 ---
 
-*Written as a part of her participation at [Bioinformatics Open Source Conference 2019](https://www.open-bio.org/events/bosc/) 
-supported by the [Open Bionformatics Foundation (OBF)](https://www.open-bio.org/) sponsors a Travel Fellowship program fellowship, 
+*Written as a part of her participation at [Bioinformatics Open Source Conference 2019](https://www.open-bio.org/events/bosc/)
+supported by the [Open Bionformatics Foundation (OBF)](https://www.open-bio.org/) sponsors a Travel Fellowship program fellowship,
 this post first appeared on the Open Bionformatics Foundation (OBF) website.*
 
 

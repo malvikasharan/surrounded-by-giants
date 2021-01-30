@@ -2,7 +2,7 @@
 layout: post
 title:  "Finding your niche in science"
 author: sharan
-categories: [ Community, Speakerdeck ]
+categories: [ community, speakerdeck ]
 image: assets/images/unsplash-ciabattespugnose.jpeg
 ---
 

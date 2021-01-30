@@ -2,7 +2,7 @@
 layout: post
 title:  "Challenges in Assessing Contributions to Reproducible Research and Open Science"
 author: sharan
-categories: [ Community, Speakerdeck, Assessment, DORA ]
+categories: [ community, open-practices, research-assessment ]
 image: https://images.unsplash.com/photo-1523540939399-141cbff6a8d7?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1650&q=80
 ---
 
@@ -13,7 +13,7 @@ Reproducibility is when the same steps are applied to the same data set, they al
 This might be a simple definition, yet it offers us a promising way to assess the quality of a research work that requires multiple and complex decision-making processes.
 Starting from the selection of a project idea, planning, data collection, processing, analysis, publishing, archiving and ultimately by ensuring that others can build upon our work, it promotes collaboration over competition.
 
-Nonetheless, conducting research with reproducible workflow can be daunting, both resource-wise and skill-wise. 
+Nonetheless, conducting research with reproducible workflow can be daunting, both resource-wise and skill-wise.
 Moreover, it is seldom mandatory for publication; the ultimate reward researchers aim to obtain.
 Hence, most efforts in this area are often led by well-intentioned, self-motivated and already overworked researchers.
 Here are some visible work and tangible outcome researchers may achieve in conducting and sharing their work openly:
@@ -23,7 +23,7 @@ Here are some visible work and tangible outcome researchers may achieve in condu
 - Open source code and documents that are available for reuse under a license.
 - Digital Object Identifier that most of these research outputs can be attached to and the citations can be counted.
 
-There is obviously more to research work that goes unacknowledged and unrecognised through the traditional system. In this post, I want to draw your attention to those hidden and invisible work in open and reproducible research. 
+There is obviously more to research work that goes unacknowledged and unrecognised through the traditional system. In this post, I want to draw your attention to those hidden and invisible work in open and reproducible research.
 A few examples of hidden labour in open source communities are the following:
 - Shared leadership efforts and pro-active volunteer (unpaid) work.
 - Public engagement by communicating science to a larger audience through citizen and participatory science.
@@ -55,12 +55,12 @@ To explore this, I would like to give examples of two independent Open Source pr
 
 Let me start by listing the visible metric of success (quantitative assessment) that we have in this project: within 2 years, we have 30 chapters and 134 subchapters co-authored and supported by over 250 contributors and read and share worldwide by 1000s of people.
 
-Then we also have a qualitative assessment process in place for acknowledgement of different types of contributions, which I have listed under five aspects: 
+Then we also have a qualitative assessment process in place for acknowledgement of different types of contributions, which I have listed under five aspects:
 
 1. **Eligibility**: Who is eligible to participate? Anyone interested in contributing to the project is welcome. I believe each of us has some skills that are useful for someone else, and The Turing Way aims to be a vehicle for that.
 2. **System of acknowledgement**: To dismantle the traditional evaluation metric system, we promote a culture of collaboration. Opposite to individual ownership and competitive nature of academia, we promote shared ownership of the project outcome.
-3. **Recognition**: Often in open communities, volunteers come and invest their time, skills, and energy in developing the project. 
-  - Most open-source projects will deem the “opportunity for people to work” as a value or reward which is not tangible at all. Specifically when these contributors can not contribute anymore. Therefore we intentionally create an opportunity for people to record their contribution in a manner that is useful and valuable for them, which is highlighted in the book and is available for people to share in their CV, for example. 
+3. **Recognition**: Often in open communities, volunteers come and invest their time, skills, and energy in developing the project.
+  - Most open-source projects will deem the “opportunity for people to work” as a value or reward which is not tangible at all. Specifically when these contributors can not contribute anymore. Therefore we intentionally create an opportunity for people to record their contribution in a manner that is useful and valuable for them, which is highlighted in the book and is available for people to share in their CV, for example.
   - Everyone who develops, not only writes, but also reviews, maintains, and mentors are named as an author of the book.
 4. **Quality control**: We have a peer-review system for collaboration and improvement of the contributions made by our contributors.
   - We also support individuals by providing support, creating helpful guidelines that can streamline their work, and multiple opportunities for community-led efforts, collaboration, and engagements.
@@ -89,12 +89,11 @@ There is no silver bullet or a system that can equitably recognise diverse roles
 *"Time for a Culture Shift", The Turing Way Community, & Scriberia. (2019, July 11). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3332808*
 
 We have been hearing this for a long time that it’s time for a culture change.
-The culture change can not truly happen if we fail to recognise less traditional research contributions. 
+The culture change can not truly happen if we fail to recognise less traditional research contributions.
 By thoughtfully and collaboratively setting-up multiple pathways for recognising all kinds of work in our projects, we will ensure that we do not promote a system that disproportionately undermines important work carried out by different members, especially those who have been previously and continuously left behind.
 By incentivising collaboration and welcoming the diversity of ideas, we can move away from the competitive and individualistic nature of academic evaluation.
 
-With that, I would like to acknowledge my colleagues and community members from _The Turing Way_, especially Kirstie Whitaker and Open Life Science, particularly Yo Yehudi, Berenice Batut and our volunteer members. 
+With that, I would like to acknowledge my colleagues and community members from _The Turing Way_, especially Kirstie Whitaker and Open Life Science, particularly Yo Yehudi, Berenice Batut and our volunteer members.
 All our resources are available under cc-by 4.0, and you are welcome to join and help us improve how we recognize visible and invisible labour in science.
 
 *Cover image by [@sam_truong](https://unsplash.com/photos/-rF4kuvgHhU) on [Unsplash](https://unsplash.com).*
-

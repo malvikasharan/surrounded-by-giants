@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <description>Open Science, Community Building and Other Stories - by Malvika Sharan</description>
+    <description>Open Science, Community Building and Other Stories</description>
     <link>http://localhost:4000/blogs/</link>
     <atom:link href="http://localhost:4000/blogs/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Jan 2021 00:08:16 +0000</pubDate>
-    <lastBuildDate>Wed, 27 Jan 2021 00:08:16 +0000</lastBuildDate>
+    <pubDate>Sat, 30 Jan 2021 18:43:10 +0000</pubDate>
+    <lastBuildDate>Sat, 30 Jan 2021 18:43:10 +0000</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -27,7 +27,7 @@
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Open Science is not always open&lt;/strong&gt; 
+    &lt;p&gt;&lt;strong&gt;Open Science is not always open&lt;/strong&gt;
 That’s a solid start because let’s face it. It &lt;em&gt;isn’t&lt;/em&gt; always open because it &lt;a href=&quot;https://www.americanscientist.org/article/open-science-isnt-always-open-to-all-scientists&quot;&gt;inherits systemic barriers that exist in science&lt;/a&gt;. Often our vision of openness is impacted by institutional recommendations made by a handful of decision-makers, which can limit our ability to use or engage with Open Science practices. Even when people put their research components out there, it doesn’t mean they are openly available to everyone due to limited access or permission. Instead of trying to prove your opponent wrong in this argument (which they are completely right about), you can respond by sharing how you are ensuring that your work is open for others. For example, show them how you share your work with an &lt;a href=&quot;https://wiki.creativecommons.org/wiki/Open_license&quot;&gt;open license&lt;/a&gt;, &lt;a href=&quot;https://opensource.com/article/20/3/documentation&quot;&gt;open documentation&lt;/a&gt;, &lt;a href=&quot;https://fairplus.github.io/cookbook-dev/intro.html&quot;&gt;FAIR elements&lt;/a&gt;, &lt;a href=&quot;https://www.elsevier.com/connect/transition-to-open-access-creates-a-challenge-for-global-south&quot;&gt;platforms that are truly open beyond Europe and North America&lt;/a&gt; etc. To add an extra pinch of openness from your end, ask for their opinions on how you can try to make your work more open for them.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -91,11 +91,9 @@ First of all, let’s not put that blame on Open Science alone. Unpaid work and 
         <guid isPermaLink="true">http://localhost:4000/blogs/open-science-argument/</guid>
         
         
-        <category>Community</category>
+        <category>community</category>
         
-        <category>open science</category>
-        
-        <category>Tips</category>
+        <category>open-practices</category>
         
       </item>
     
@@ -108,7 +106,7 @@ First of all, let’s not put that blame on Open Science alone. Unpaid work and 
 &lt;p&gt;This might be a simple definition, yet it offers us a promising way to assess the quality of a research work that requires multiple and complex decision-making processes.
 Starting from the selection of a project idea, planning, data collection, processing, analysis, publishing, archiving and ultimately by ensuring that others can build upon our work, it promotes collaboration over competition.&lt;/p&gt;
 
-&lt;p&gt;Nonetheless, conducting research with reproducible workflow can be daunting, both resource-wise and skill-wise. 
+&lt;p&gt;Nonetheless, conducting research with reproducible workflow can be daunting, both resource-wise and skill-wise.
 Moreover, it is seldom mandatory for publication; the ultimate reward researchers aim to obtain.
 Hence, most efforts in this area are often led by well-intentioned, self-motivated and already overworked researchers.
 Here are some visible work and tangible outcome researchers may achieve in conducting and sharing their work openly:&lt;/p&gt;
@@ -120,7 +118,7 @@ Here are some visible work and tangible outcome researchers may achieve in condu
   &lt;li&gt;Digital Object Identifier that most of these research outputs can be attached to and the citations can be counted.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;There is obviously more to research work that goes unacknowledged and unrecognised through the traditional system. In this post, I want to draw your attention to those hidden and invisible work in open and reproducible research. 
+&lt;p&gt;There is obviously more to research work that goes unacknowledged and unrecognised through the traditional system. In this post, I want to draw your attention to those hidden and invisible work in open and reproducible research.
 A few examples of hidden labour in open source communities are the following:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Shared leadership efforts and pro-active volunteer (unpaid) work.&lt;/li&gt;
@@ -203,28 +201,25 @@ There is no silver bullet or a system that can equitably recognise diverse roles
 &lt;em&gt;“Time for a Culture Shift”, The Turing Way Community, &amp;amp; Scriberia. (2019, July 11). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3332808&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;We have been hearing this for a long time that it’s time for a culture change.
-The culture change can not truly happen if we fail to recognise less traditional research contributions. 
+The culture change can not truly happen if we fail to recognise less traditional research contributions.
 By thoughtfully and collaboratively setting-up multiple pathways for recognising all kinds of work in our projects, we will ensure that we do not promote a system that disproportionately undermines important work carried out by different members, especially those who have been previously and continuously left behind.
 By incentivising collaboration and welcoming the diversity of ideas, we can move away from the competitive and individualistic nature of academic evaluation.&lt;/p&gt;
 
-&lt;p&gt;With that, I would like to acknowledge my colleagues and community members from &lt;em&gt;The Turing Way&lt;/em&gt;, especially Kirstie Whitaker and Open Life Science, particularly Yo Yehudi, Berenice Batut and our volunteer members. 
+&lt;p&gt;With that, I would like to acknowledge my colleagues and community members from &lt;em&gt;The Turing Way&lt;/em&gt;, especially Kirstie Whitaker and Open Life Science, particularly Yo Yehudi, Berenice Batut and our volunteer members.
 All our resources are available under cc-by 4.0, and you are welcome to join and help us improve how we recognize visible and invisible labour in science.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Cover image by &lt;a href=&quot;https://unsplash.com/photos/-rF4kuvgHhU&quot;&gt;@sam_truong&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com&quot;&gt;Unsplash&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
 </description>
         <pubDate>Wed, 02 Sep 2020 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blogs/dora-panel-open-science/</link>
         <guid isPermaLink="true">http://localhost:4000/blogs/dora-panel-open-science/</guid>
         
         
-        <category>Community</category>
+        <category>community</category>
         
-        <category>Speakerdeck</category>
+        <category>open-practices</category>
         
-        <category>Assessment</category>
-        
-        <category>DORA</category>
+        <category>research-assessment</category>
         
       </item>
     
@@ -258,9 +253,9 @@ All our resources are available under cc-by 4.0, and you are welcome to join and
 
 &lt;p&gt;Few of my top tips for planning an event as a pessimistic organiser are the following:&lt;/p&gt;
 
-&lt;p&gt;Involve the different stakeholders from the beginning while maintaining clear communication, setting the right expectations, developing strategies and sticking to a defined timeline. 
-Store all information including policies, checklists, meeting minutes, and delegated tasks in a common (possibly shared) location. 
-Transfer risks to the experts or external vendors for high-profile events (AV setup, budget, catering, transportation, etc.). 
+&lt;p&gt;Involve the different stakeholders from the beginning while maintaining clear communication, setting the right expectations, developing strategies and sticking to a defined timeline.
+Store all information including policies, checklists, meeting minutes, and delegated tasks in a common (possibly shared) location.
+Transfer risks to the experts or external vendors for high-profile events (AV setup, budget, catering, transportation, etc.).
 Document past events. Our history can help us identify the possible challenges and their solutions, and reveal triggers for specific risks that may have appeared before.&lt;/p&gt;
 
 &lt;p&gt;A complete note on this topic and a related presentation are available online under the title Risk Management for your (scientific) events (&lt;a href=&quot;https://zenodo.org/record/3368395&quot;&gt;DOI: 10.5281/zenodo.3368395&lt;/a&gt;) and the Creative Commons Attribution 4.0 International License. You are welcome to use this resource in your own workflow and provide your feedback to further improve it.&lt;/p&gt;
@@ -274,18 +269,16 @@ Document past events. Our history can help us identify the possible challenges a
         <guid isPermaLink="true">http://localhost:4000/blogs/event-risk-management/</guid>
         
         
-        <category>Community</category>
+        <category>community</category>
         
-        <category>managers</category>
-        
-        <category>Tips</category>
+        <category>open-practices</category>
         
       </item>
     
       <item>
         <title>5 tips to promote ‘water cooler effects’ at informal discussion sessions</title>
-        <description>&lt;p&gt;&lt;em&gt;Written as a part of her participation at &lt;a href=&quot;https://www.open-bio.org/events/bosc/&quot;&gt;Bioinformatics Open Source Conference 2019&lt;/a&gt; 
-supported by the &lt;a href=&quot;https://www.open-bio.org/&quot;&gt;Open Bionformatics Foundation (OBF)&lt;/a&gt; sponsors a Travel Fellowship program fellowship, 
+        <description>&lt;p&gt;&lt;em&gt;Written as a part of her participation at &lt;a href=&quot;https://www.open-bio.org/events/bosc/&quot;&gt;Bioinformatics Open Source Conference 2019&lt;/a&gt;
+supported by the &lt;a href=&quot;https://www.open-bio.org/&quot;&gt;Open Bionformatics Foundation (OBF)&lt;/a&gt; sponsors a Travel Fellowship program fellowship,
 this post first appeared on the Open Bionformatics Foundation (OBF) website.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The phrase ‘water cooler effect’ is derived from informal gatherings and connections made around water coolers (or vending machines these days!) at the workplace or other formal situations. Such unplanned encounters lead to genuine connections between people resulting in meaningful and productive collaborations. Many research organizations value the importance of such serendipitous interactions, and actively promote them in their work-culture. Conference organizers also recognize its effectiveness and design their program with longer coffee breaks, dedicated slots for informal discussions and designated venues for breakout sessions.&lt;/p&gt;
@@ -336,11 +329,9 @@ this post first appeared on the Open Bionformatics Foundation (OBF) website.&lt;
         <guid isPermaLink="true">http://localhost:4000/blogs/water-cooler-effects/</guid>
         
         
-        <category>Community</category>
+        <category>community</category>
         
-        <category>managers</category>
-        
-        <category>Tips</category>
+        <category>open-practices</category>
         
       </item>
     
@@ -380,9 +371,9 @@ this post first appeared on the Open Bionformatics Foundation (OBF) website.&lt;
         <guid isPermaLink="true">http://localhost:4000/blogs/letter-to-community-managers/</guid>
         
         
-        <category>Community</category>
+        <category>community</category>
         
-        <category>managers</category>
+        <category>open-practices</category>
         
       </item>
     
@@ -517,11 +508,9 @@ this post first appeared on the Open Bionformatics Foundation (OBF) website.&lt;
         <guid isPermaLink="true">http://localhost:4000/blogs/digital-storytelling/</guid>
         
         
-        <category>Community</category>
+        <category>community</category>
         
-        <category>managers</category>
-        
-        <category>Tips</category>
+        <category>open-practices</category>
         
       </item>
     
@@ -630,11 +619,9 @@ All the identifiable information have been removed to maintain anonymity of the 
         <guid isPermaLink="true">http://localhost:4000/blogs/csg-wis-survey-report-part3/</guid>
         
         
-        <category>Survey</category>
+        <category>article</category>
         
-        <category>Women in Science</category>
-        
-        <category>Article</category>
+        <category>women-in-science</category>
         
       </item>
     
@@ -653,9 +640,11 @@ All the identifiable information have been removed to maintain anonymity of the 
         <guid isPermaLink="true">http://localhost:4000/blogs/inclusiveness-in-open-science/</guid>
         
         
-        <category>OpenStuff</category>
+        <category>open-practices</category>
         
-        <category>Speakerdeck</category>
+        <category>speakerdeck</category>
+        
+        <category>community</category>
         
       </item>
     
@@ -676,9 +665,9 @@ All the identifiable information have been removed to maintain anonymity of the 
         <guid isPermaLink="true">http://localhost:4000/blogs/finding-your-niche-in-science/</guid>
         
         
-        <category>Community</category>
+        <category>community</category>
         
-        <category>Speakerdeck</category>
+        <category>speakerdeck</category>
         
       </item>
     

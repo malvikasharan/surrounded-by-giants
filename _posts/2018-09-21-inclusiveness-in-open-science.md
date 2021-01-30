@@ -2,7 +2,7 @@
 layout: post
 title:  "Inclusiveness in Open Science"
 author: sharan
-categories: [ OpenStuff, Speakerdeck ]
+categories: [ open-practices, speakerdeck, community ]
 image: assets/images/unsplash-sharonmccutcheon.jpeg
 featured: true
 hidden: true

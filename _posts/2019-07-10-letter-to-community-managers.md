@@ -2,7 +2,7 @@
 layout: post
 title:  "A Friendly Letter to Community Managers"
 author: sharan
-categories: [ Community, managers ]
+categories: [ community, open-practices ]
 image: https://images.unsplash.com/photo-1510034696085-597d716bd162?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1650&q=80
 ---
 

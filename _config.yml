@@ -4,7 +4,7 @@ description: "Open Science, Community Building and Other Stories"
 meta_description: "I sometimes write stuff."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /blogs
+baseurl: /blogs/
 google_analytics: 'UA-134359332-1' #'UA-46278016-1'
 include: ["_pages"]
 permalink: /:title/
