@@ -6,7 +6,7 @@ categories: [ community, speakerdeck, OpenSource ]
 image: https://images.unsplash.com/photo-1531498860502-7c67cf02f657?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80
 ---
 
-Sharan, Yo Yehudi, Raniere Silva, Colin Sauze, Claire Wyatt **(authors’ names are arranged in no particular order)**
+Malvika Sharan, Yo Yehudi, Raniere Silva, Colin Sauze, Claire Wyatt **(authors’ names are arranged in no particular order)**
 
 _This post is part of the [CW20 speed blog posts series](https://software.ac.uk/tags/cw20-speed-blog-posts) for the Software Sustainability Institute's Collaboration Workshop 21. A full chapter has been added to [The Turing Way guide on Collaboration](https://the-turing-way.netlify.app/collaboration/new-community.html) in Data Science_
 
