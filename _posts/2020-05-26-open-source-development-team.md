@@ -8,7 +8,7 @@ image: https://images.unsplash.com/photo-1531498860502-7c67cf02f657?ixid=MXwxMjA
 
 Malvika Sharan, Yo Yehudi, Raniere Silva, Colin Sauze, Claire Wyatt **(authors’ names are arranged in no particular order)**
 
-_This post is part of the [CW20 speed blog posts series](https://software.ac.uk/tags/cw20-speed-blog-posts) for the Software Sustainability Institute's Collaboration Workshop 21. A full chapter has been added to [The Turing Way guide on Collaboration](https://the-turing-way.netlify.app/collaboration/new-community.html) in Data Science_
+_This post is part of the [CW20 speed blog posts series](https://software.ac.uk/tags/cw20-speed-blog-posts) for the Software Sustainability Institute's Collaboration Workshop 20. A full chapter has been added to [The Turing Way guide on Collaboration](https://the-turing-way.netlify.app/collaboration/new-community.html) in Data Science_
 
 **![Zoom screenshot](https://software.ac.uk/sites/default/files/Screenshot%20from%202020-03-31%2011-01-25.png)
 
@@ -24,7 +24,7 @@ As a project lead, you want to set up a welcoming and inclusive environment and 
 
 In the best case scenario, you would have already planned for community collaboration in your research project, but if that was not the case, then the checklist provided below will help you in making this process thoughtful and structured. The practices listed here are derived from, and limited by the experiences of the authors who participate in several successful Open Research communities and lead community-driven projects such as [The Carpentries](https://carpentries.org/), [Mozilla Open Leaders](https://mozilla.github.io/open-leadership-framework/), [The Turing Way](https://the-turing-way.netlify.com/collaborating_github/collaborating_github.html) and [Open Life Science](https://openlifesci.org/ols-1#schedule), hence they may need to be adapted for projects that are very different in nature.
 
-1.  **Choose a communication platform: **
+1.  **Choose a communication platform:**
     
 
 -   When leading an open project, use collaborative and open platforms such as [GitHub](http://github.com/). 
