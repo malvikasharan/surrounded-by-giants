@@ -3,7 +3,7 @@ layout: post
 title:  "Bootstrapping an Open Source development team during COVID-19 crisis"
 author: sharan
 categories: [ community, speakerdeck, OpenSource ]
-image: assets/images/unsplash-ciabattespugnose.jpeg
+image: https://images.unsplash.com/photo-1531498860502-7c67cf02f657?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80
 ---
 
 Sharan, Yo Yehudi, Raniere Silva, Colin Sauze, Claire Wyatt **(authors’ names are arranged in no particular order)**
@@ -107,3 +107,5 @@ In the best case scenario, you would have already planned for community collabor
 --------------
 
 Keeping a team engaged is a continuous activity that requires regular checking in and evaluation. Based on each evaluation we can change and improve our workflow and community practices. During this unprecedented time, while we navigate through the COVID-19 pandemic situation and apply our collective knowledge to tackle the problem at hand, we don’t have the benefit of time to carry out such evaluation. Therefore it is even more important to be intentional when creating teams and communities and apply the tried and tested best practices from the beginning. We hope that the practices recommended in this post will give a good starting point for building successful collaboration through your projects.
+
+*Cover image by [@heylagostechie](https://unsplash.com/photos/YgOCJz9uGMk) on [Unsplash](https://unsplash.com)*
