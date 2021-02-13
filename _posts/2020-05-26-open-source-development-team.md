@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bootstrapping an Open Source development team during COVID-19 crisis"
+title:  "Bootstrapping an Open Source development team during the pandemic"
 author: sharan
 categories: [ community, speakerdeck, OpenSource ]
 image: https://images.unsplash.com/photo-1531498860502-7c67cf02f657?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80
